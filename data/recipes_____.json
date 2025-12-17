@@ -1,0 +1,371 @@
+[
+  {
+    "id": 1,
+    "category": "pures",
+    "title": "Puré de verduras (verde)",
+    "description": "Puré de verduras (verde)",
+    "image": "assets/img/pure-verde.jpg",
+    "ingredients": ["Cebolleta", "Puerro", "Calabacín", "Berenjena", "Pimiento verde", "Espinacas", "Brócoli pequeño", "Puñado fréjoles", "Apio (2)"],
+    "steps": ["Sofreír la cebolleta y el puerro con un chorro de aceite sin dorar", "Añadir el resto de ingredientes y agua caliente sin cubrir del todo", "Echar sal y pimienta, cerrar y cocer a presión 6 minutos", "Pasar por el pasapuré o triturar en Thermomix (2 veces, nivel 4, 2:30 min)"]
+  },
+  {
+    "id": 2,
+    "category": "de-cuchara",
+    "title": "Fréjoles con jamón y patatas",
+    "description": "Fréjoles con jamón y patatas",
+    "image": "frejoles-con-patatas",
+    "ingredients": ["Fréjoles", "Patatas", "Jamón en tiras (1 puñado)", "Ajo (3 dientes)", "Salsa de tomate"],
+    "steps": ["Lavar y trocear fréjoles y cortar patatas en trozos", "Echar en olla rápida con 2 cm de agua, añadir sal y cocer 5-6 min", "Dorar el ajo troceado en sartén con poco aceite, añadir jamón y dejar que se haga un poco", "Añadir el refrito a la olla, verter salsa de tomate y dejar reducir 10-15 min"]
+  },
+  {
+    "id": 3,
+    "category": "sopas",
+    "title": "Sopa de quinoa",
+    "description": "Sopa de quinoa",
+    "image": "sopa-quinoa",
+    "ingredients": ["Medio paquete de lentejas", "2 dientes de ajo", "80 g de cebolla", "Tacos de jamón", "1,5 litros entre agua y caldo", "1 cucharadita de sal", "Pimienta", "40 g de aceite", "Opcional: 1 cucharada de pimentón"],
+    "steps": ["Poner en el vaso el ajo y la cebolla. Programar 4 segundos, velocidad 5. Con la espátula, bajar los restos de las paredes del vaso", "Añadir el aceite y el jamón. Programar 5 minutos, 100º, velocidad 1", "Añadir el pimentón y mezclar con la espátula", "Incorporar el caldo y el agua. Programar 10 minutos, 100º, velocidad 2", "Añadir la soja de quinoa y la pimienta. Programar 25 minutos, 100º, giro a la izquierda, velocidad 1. NOTA: Si se van a añadir fideos, hacerlo cuando falte el tiempo que marca el paquete para su cocción"]
+  },
+  {
+    "id": 4,
+    "category": "sopas",
+    "title": "Caldo",
+    "description": "Caldo",
+    "image": "caldo",
+    "ingredients": ["Hueso de jamón", "Hebra de jamón", "Muslo de gallina", "Trozo de chamón", "Puerro", "Zanahoria", "Sal", "Azafrán"],
+    "steps": ["Llenar la olla rápida con 3/4 de agua, y poner a hervir el jamón, chamón y pollo. Dejar que vaya soltando y vamos desespumando hasta que pare", "Añadimos luego el puerro y la zanahoria y dejamos 45 min con presión", "Destapamos, añadimos azafrán y sal y dejamos otros 20 min sin presión para que reduzca"]
+  },
+  {
+    "id": 5,
+    "category": "pures",
+    "title": "Puré rojo",
+    "description": "Puré rojo",
+    "image": "pure-rojo",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 7"]
+  },
+  {
+    "id": 6,
+    "category": "varios",
+    "title": "Guacamole",
+    "description": "Guacamole",
+    "image": "guacamole",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 8"]
+  },
+  {
+    "id": 7,
+    "category": "ensaladas",
+    "title": "Ceviche de coliflor",
+    "description": "Ceviche de coliflor",
+    "image": "ceviche-coliflor",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 9"]
+  },
+  {
+    "id": 8,
+    "category": "varios",
+    "title": "Berenjenas rellenas",
+    "description": "Berenjenas rellenas",
+    "image": "berenjenas-rellenas",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 10"]
+  },
+  {
+    "id": 9,
+    "category": "ensaladas",
+    "title": "Ensalada de col",
+    "description": "Ensalada de col",
+    "image": "ensalada-col",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 11"]
+  },
+  {
+    "id": 10,
+    "category": "de-cuchara",
+    "title": "Repollo guisado Thermomix",
+    "description": "Repollo guisado Thermomix",
+    "image": "repollo-guisado",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 12"]
+  },
+  {
+    "id": 11,
+    "category": "postres",
+    "title": "Cocadas",
+    "description": "Cocadas",
+    "image": "cocadas",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 13"]
+  },
+  {
+    "id": 12,
+    "category": "postres",
+    "title": "Magdalenas de chocolate y nata",
+    "description": "Magdalenas de chocolate y nata",
+    "image": "magdalenas-chocolate",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 14"]
+  },
+  {
+    "id": 13,
+    "category": "ensaladas",
+    "title": "Escalivada",
+    "description": "Escalivada",
+    "image": "escalivada",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 15"]
+  },
+  {
+    "id": 14,
+    "category": "ensaladas",
+    "title": "Ensalada de ahumados",
+    "description": "Ensalada de ahumados",
+    "image": "ensalada-ahumados",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 16"]
+  },
+  {
+    "id": 15,
+    "category": "ensaladas",
+    "title": "Ensalada de aguacate y mango",
+    "description": "Ensalada de aguacate y mango",
+    "image": "ensalada-aguacata-mango",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 17"]
+  },
+  {
+    "id": 16,
+    "category": "postres",
+    "title": "Selva negra",
+    "description": "Selva negra",
+    "image": "selva-negra",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 18"]
+  },
+  {
+    "id": 17,
+    "category": "de-cuchara",
+    "title": "Lentejas",
+    "description": "Lentejas",
+    "image": "lentejas",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 19"]
+  },
+  {
+    "id": 18,
+    "category": "de-cuchara",
+    "title": "Guisantes con jamón",
+    "description": "Guisantes con jamón",
+    "image": "guisantes-jamon",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 20"]
+  },
+  {
+    "id": 19,
+    "category": "guisos",
+    "title": "Pollo guisado",
+    "description": "Pollo guisado",
+    "image": "pollo-guisado",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 21"]
+  },
+  {
+    "id": 20,
+    "category": "postres",
+    "title": "Brownie",
+    "description": "Brownie",
+    "image": "brownie",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 22"]
+  },
+  {
+    "id": 21,
+    "category": "varios",
+    "title": "Sándwich mediterráneo",
+    "description": "Sándwich mediterráneo",
+    "image": "sandwich-mediterraneo",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 23"]
+  },
+  {
+    "id": 22,
+    "category": "pescados",
+    "title": "Salmón al estuche de vapor",
+    "description": "Salmón al estuche de vapor",
+    "image": "salmon-estuche-vapor",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 24"]
+  },
+  {
+    "id": 23,
+    "category": "ensaladas",
+    "title": "Ensalada mango 2.0",
+    "description": "Ensalada mango 2.0",
+    "image": "ensalada-mango-2.0",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 25"]
+  },
+  {
+    "id": 24,
+    "category": "pescados",
+    "title": "Patatas con pintarroxa",
+    "description": "Patatas con pintarroxa",
+    "image": "patatas-pintarroxa",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 26"]
+  },
+  {
+    "id": 25,
+    "category": "postres",
+    "title": "Torrijas",
+    "description": "Torrijas",
+    "image": "torrijas",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 27"]
+  },
+  {
+    "id": 26,
+    "category": "varios",
+    "title": "Pollo  para fajitas",
+    "description": "Pollo  para fajitas",
+    "image": "pollo-fajitas",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 28"]
+  },
+  {
+    "id": 27,
+    "category": "pescados",
+    "title": "Patatas con pescado",
+    "description": "Patatas con pescado",
+    "image": "patatas-pescado",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 29"]
+  },
+  {
+    "id": 28,
+    "category": "ensaladas",
+    "title": "Ensalada de rúcula",
+    "description": "Ensalada de rúcula",
+    "image": "ensalada-rucula",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 30"]
+  },
+  {
+    "id": 29,
+    "category": "varios",
+    "title": "Pesto",
+    "description": "Pesto",
+    "image": "pesto",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 31"]
+  },
+  {
+    "id": 30,
+    "category": "ensaladas",
+    "title": "Ensalada pollo y bacon",
+    "description": "Ensalada pollo y bacon",
+    "image": "ensalada-pollo-bacon",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 32"]
+  },
+  {
+    "id": 31,
+    "category": "postres",
+    "title": "Mousse de queso y yogurt",
+    "description": "Mousse de queso y yogurt",
+    "image": "mousse-queso-yogurt",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 33"]
+  },
+  {
+    "id": 32,
+    "category": "guisos",
+    "title": "Pollo al limón",
+    "description": "Pollo al limón",
+    "image": "pollo-limon",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 34"]
+  },
+  {
+    "id": 33,
+    "category": "ensaladas",
+    "title": "Ensalada de lentejas",
+    "description": "Ensalada de lentejas",
+    "image": "ensalada-lentejas",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 35"]
+  },
+  {
+    "id": 34,
+    "category": "varios",
+    "title": "Tortitas pollo picado",
+    "description": "Tortitas pollo picado",
+    "image": "tortitas-pollo-picado",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 36"]
+  },
+  {
+    "id": 35,
+    "category": "de-cuchara",
+    "title": "Repollo salteado con pollo",
+    "description": "Repollo salteado con pollo",
+    "image": "repollo-salteado-pollo",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 37"]
+  },
+  {
+    "id": 36,
+    "category": "ensaladas",
+    "title": "Ensalada de salmón y naranja",
+    "description": "Ensalada de salmón y naranja",
+    "image": "ensalada-salmon-naranja",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 38"]
+  },
+  {
+    "id": 37,
+    "category": "guisos",
+    "title": "Albóndigas de pollo",
+    "description": "Albóndigas de pollo",
+    "image": "albondigas-pollo",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 39"]
+  },
+  {
+    "id": 38,
+    "category": "varios",
+    "title": "Granola",
+    "description": "Granola",
+    "image": "granola",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 40"]
+  },
+  {
+    "id": 39,
+    "category": "varios",
+    "title": "Dip de alcachofas y espinacas",
+    "description": "Dip de alcachofas y espinacas",
+    "image": "dip-alcachofas-espinacas",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 41"]
+  },
+  {
+    "id": 40,
+    "category": "varios",
+    "title": "Pulpo a la plancha con verduras asadas",
+    "description": "Pulpo a la plancha con verduras asadas",
+    "image": "pulpo-plancha-verduras-asadas",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 42"]
+  },
+  {
+    "id": 41,
+    "category": "varios",
+    "title": "Coliflor Asada con Tahini y Menta Fresca",
+    "description": "Coliflor Asada con Tahini y Menta Fresca",
+    "image": "coliflor-asada-tahini-menta",
+    "ingredients": ["cebolleta", "puerro", "calabacín"],
+    "steps": ["Paso 1", "Paso 2", "Paso 43"]
+  }
+]
