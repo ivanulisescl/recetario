@@ -12,7 +12,7 @@
     "id": 2,
     "category": "de-cuchara",
     "title": "Fréjoles con jamón y patatas",
-    "description": "Los de mi madre pero sin compango",
+    "description": "Sin compango pero muy ricos",
     "image": "assets/img/recetas/frejoles-patatas.jpg",
     "ingredients": ["Fréjoles", "Patatas", "Jamón en tiras (1 puñado)", "Ajo (3 dientes)", "Salsa de tomate"],
     "steps": ["Lavar y trocear fréjoles y cortar patatas en trozos", "Echar en olla rápida con 2 cm de agua, añadir sal y cocer 5-6 min", "Dorar el ajo troceado en sartén con poco aceite, añadir jamón y dejar que se haga un poco", "Añadir el refrito a la olla, verter salsa de tomate y dejar reducir 10-15 min"]
@@ -93,7 +93,7 @@
     "id": 11,
     "category": "postres",
     "title": "Cocadas",
-    "description": "Llambionada",
+    "description": "Una llambionada buena",
     "image": "assets/img/recetas/cocadas.jpg",
     "ingredients": ["Huevos", "Azúcar", "Coco rallado"],
     "steps": ["Precalentar horno a 250°C sin aire", "Batir huevos ligeramente, añadir azúcar e incorporar el coco removiendo bien", "Depositar bolitas de masa de 3,5 cm en bandeja engrasada separadas 4 cm", "Hornear en posición baja 4-5 minutos hasta que doren", "Dejar enfriar antes de despegar con espátula"]
@@ -102,7 +102,7 @@
     "id": 12,
     "category": "postres",
     "title": "Magdalenas de chocolate y nata",
-    "description": "Magdalenas de chocolate y nata",
+    "description": "Mufin que se dice ahora",
     "image": "assets/img/recetas/magdalenas-chocolate.jpg",
     "ingredients": ["300g harina", "40g cacao puro", "1 sobre levadura", "4 huevos", "150-250g azúcar", "Ralladura naranja", "100-120g nata o yogur", "250g aceite girasol", "60g pepitas chocolate", "Azúcar para espolvorear"],
     "steps": ["Tamizar harina, cacao y levadura (30s, v3). Retira y reserva", "Batir huevos y azúcar con mariposa (7 min, 37º, v3)", "Añadir ralladura (6 min, v3), nata y aceite (1 min, v2)", "Quitar mariposa, añadir harina (5s, v6) y pepitas y mezclar con la espátula.", "Vierte el contenido mientras precalienta el horno a 230ºC, con calor arriba y abajo o ventilador", "Reparte la masa en moldes de papel, lleanado hasta 3/4 de su capacidad, espolvorear azúcar y hornear a 210ºC por 15-18 min"]
@@ -138,7 +138,7 @@
     "id": 16,
     "category": "postres",
     "title": "Selva negra",
-    "description": "Selva negra",
+    "description": "Bastante laboriosa",
     "image": "assets/img/recetas/selva-negra.jpg",
     "ingredients": ["Bizcocho: 100g harina repostería, 40g cacao, 2 cdta levadura, 1 cdta azúcar vainillado, sal, 3 huevos, 150g azúcar, 100g mantequilla, 40g kirsch", "Relleno: 250g cerezas al kirsch, 600g nata fría, 1 cdta azúcar vainillado, 100g azúcar glas", "Decoración: Virutas de chocolate"],
     "steps": ["Bizcocho: Pulverizar secos (20s, v5-10). Batir huevos y azúcar con mariposa (5 min, 37º, v3.5 y 4 min, v3). Añadir mantequilla y secos (4s, v1), unir con espátula, añadir licor y hornear a 180ºC (20-25 min).", "Relleno: Montar nata con azúcar vainillado (v3.5) y añadir azúcar glas al final.", "Montaje: Calar bizcocho con licor, rellenar con nata y cerezas, cubrir con nata restante, decorar con rosetas, cerezas y virutas de chocolate"]
@@ -165,37 +165,37 @@
     "id": 19,
     "category": "guisos",
     "title": "Pollo guisado",
-    "description": "Pollo guisado",
+    "description": "No tan bueno como al chilindrón",
     "image": "assets/img/recetas/pollo-guisado.jpg",
-    "ingredients": ["Sin definir"],
-    "steps": ["Sin definir"]
+    "ingredients": ["Pollo", "Ajo", "Cebolla", "Pimiento rojo", "Pimiento verde", "Zanahoria", "Aceite", "Sal", "Vino blanco", "Agua caliente"],
+    "steps": ["\"Salpimentar y dorar el pollo en aceite"]
   },
   {
     "id": 20,
     "category": "postres",
     "title": "Brownie",
-    "description": "Brownie",
+    "description": "Con helado de vainilla está que flipas",
     "image": "assets/img/recetas/brownie.jpg",
-    "ingredients": ["Sin definir"],
-    "steps": ["Sin definir"]
+    "ingredients": ["150g de nueces", "150g de chocolate fondant", "150g de azúcar", "2 huevos", "100g de mantequilla a Tª ambiente", "70g de harina de repostería", "1 cucharadita de levadura química", "1 pellizco de sal"],
+    "steps": ["Precalentar el horno a 180º", "Trocear nueces en el vaso (4s, v4) y reservar. Poner chocolate troceado en el vaso (15s, v5-10) y reservar.", "Batir azúcar y huevos con mariposa (5 min, 37º, v3.5).", "Añadir mantequilla y chocolate (6s, v2).", "Incorporar harina, levadura y sal (4s, v2) y quitar la mariposa.", "Mezclar nueces con espátula.", "Engrasar un molde y enharinar, volcar la mezcla y hornear durante 20 minutos, hasta que al introducir un cuchillo, salga limpio.", "Servir con helado de vainilla."]
   },
   {
     "id": 21,
     "category": "varios",
     "title": "Sándwich mediterráneo",
-    "description": "Sándwich mediterráneo",
+    "description": "Sabor italiano",
     "image": "assets/img/recetas/sandwich-mediterraneo.jpg",
-    "ingredients": ["Sin definir"],
-    "steps": ["Sin definir"]
+    "ingredients": ["Piso inferior: Salami, Jamón York, Queso", "Piso superior: Tomate seco, Aceitunas verdes, Mozzarella, Rúcula, Alcaparras (opcional)", "Nota: Capa fina de pesto por todas las caras del pan Montar el primer piso con los embutidos y el queso"],
+    "steps": ["Montar y listo"]
   },
   {
     "id": 22,
     "category": "pescados",
     "title": "Salmón al estuche de vapor",
-    "description": "Salmón al estuche de vapor",
+    "description": "Sano y nutritivo",
     "image": "assets/img/recetas/salmon-estuche-vapor.jpg",
-    "ingredients": ["Sin definir"],
-    "steps": ["Sin definir"]
+    "ingredients": ["1 cebolleta", "1 puñado de espárragos trigueros", "Salmón", "8 tomates cherry", "2 cucharadas de aceite de ajo", "2 cucharadas de salsa de soja", "Pimienta", "Cebollino picado", "Sésamo negro"],
+    "steps": ["\"Poner en el estuche la cebolla picada y los trigueros troceados con el aceite de ajo y pimienta"]
   },
   {
     "id": 23,
@@ -210,16 +210,16 @@
     "id": 24,
     "category": "pescados",
     "title": "Patatas con pintarroxa",
-    "description": "Patatas con pintarroxa",
+    "description": "Pa ponese las botas",
     "image": "assets/img/recetas/patatas-pintarroxa.jpg",
-    "ingredients": ["Sin definir"],
-    "steps": ["Sin definir"]
+    "ingredients": ["Pintarroja", "16 gambones tigre", "2 dientes de ajo", "1 cebolla", "Harina", "Medio vaso de vino blanco", "Patatas tipo panadera", "Perejil", "Sal", "Aceite"],
+    "steps": ["Caldo: Sofreír cabezas y pieles de gambones, cocer 15 min en agua aplastándolas y colar. Cocer trozos de pescado en agua aparte 15 min y colar", "Pota: Dorar ajos rallados y una cebolleta. Cocinar 2 cucharaditas de harina, añadir medio vaso de vino y evaporar", "Final: Añadir perejil, patatas y los caldos. Cuando las patatas estén casi listas, incorporar la pintarroja y gambones 3 minutos más"]
   },
   {
     "id": 25,
     "category": "postres",
     "title": "Torrijas",
-    "description": "Torrijas",
+    "description": "Las clásicas",
     "image": "assets/img/recetas/torrijas.jpg",
     "ingredients": ["Sin definir"],
     "steps": ["Sin definir"]
@@ -228,7 +228,7 @@
     "id": 26,
     "category": "varios",
     "title": "Pollo  para fajitas",
-    "description": "Pollo  para fajitas",
+    "description": "Receta para fajitas elaboradas",
     "image": "assets/img/recetas/pollo-fajitas.jpg",
     "ingredients": ["Sin definir"],
     "steps": ["Sin definir"]
@@ -237,7 +237,7 @@
     "id": 27,
     "category": "pescados",
     "title": "Patatas con pescado",
-    "description": "Patatas con pescado",
+    "description": "También de relamese",
     "image": "assets/img/recetas/patatas-pescado.jpg",
     "ingredients": ["Sin definir"],
     "steps": ["Sin definir"]
@@ -255,7 +255,7 @@
     "id": 29,
     "category": "varios",
     "title": "Pesto",
-    "description": "Pesto",
+    "description": "Molto buono",
     "image": "assets/img/recetas/pesto.jpg",
     "ingredients": ["cebolleta", "puerro", "calabacín"],
     "steps": ["Sin definir"]
@@ -273,7 +273,7 @@
     "id": 31,
     "category": "postres",
     "title": "Mousse de queso y yogurt",
-    "description": "Mousse de queso y yogurt",
+    "description": "De mis postres favoritos",
     "image": "assets/img/recetas/mousse-queso-yogurt.jpg",
     "ingredients": ["Sin definir"],
     "steps": ["Sin definir"]
@@ -282,7 +282,7 @@
     "id": 32,
     "category": "guisos",
     "title": "Pollo al limón",
-    "description": "Pollo al limón",
+    "description": "Tampoco supera al chilindrón",
     "image": "assets/img/recetas/pollo-limon.jpg",
     "ingredients": ["Sin definir"],
     "steps": ["Sin definir"]
@@ -300,7 +300,7 @@
     "id": 34,
     "category": "varios",
     "title": "Tortitas pollo picado",
-    "description": "Tortitas pollo picado",
+    "description": "Habrá que revisar esta receta",
     "image": "assets/img/recetas/tortitas-pollo-picado.jpg",
     "ingredients": ["Sin definir"],
     "steps": ["Sin definir"]
