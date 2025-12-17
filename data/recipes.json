@@ -149,8 +149,8 @@
     "title": "Lentejas",
     "description": "Lentejas",
     "image": "assets/img/recetas/lentejas.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["1 vaso de lentejas", "8 vasos de agua fría", "Patatas", "1 puerro entero", "1/2 pimiento verde", "2 zanahorias", "Jamón y/o chorizo", "2 tomates triturados", "1 cucharadita de sal", "Sofrito (4 dientes de ajo, 1 cebolla, pimentón)"],
+    "steps": ["\"Cocer en olla a presión 20 min las lentejas, agua, patatas, pimiento, puerro, zanahorias, carne, tomate y sal", "Hacer un sofrito con ajo y cebolla"]
   },
   {
     "id": 18,
@@ -158,8 +158,8 @@
     "title": "Guisantes con jamón",
     "description": "Guisantes con jamón",
     "image": "assets/img/recetas/guisantes-jamon.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Guisantes", "Tacos de jamón", "Cebolla", "Harina", "Vino blanco", "Sal", "Pimentón Cocer los guisantes según las instrucciones del paquete (pueden quedar duros)"],
+    "steps": ["Pochar la cebolla y añadir los tacos de jamón", "Incorporar la harina, cocinarla y añadir un poco de pimentón", "Verter el vino blanco y un par de garcillas del agua de cocción de los guisantes", "Añadir los guisantes y ajustar el agua si es necesario"]
   },
   {
     "id": 19,
@@ -311,8 +311,8 @@
     "title": "Repollo salteado con pollo",
     "description": "Repollo salteado con pollo",
     "image": "assets/img/recetas/repollo-salteado-pollo.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Repollo (unas 6 hojas)", "1 cebolla morada mediana grande", "Zanahoria rallada", "Salsa de soja", "Jengibre rallado", "Ralladura de limón o lima", "Opcional: Pollo o gambas"],
+    "steps": ["Pochar la cebolla morada en juliana y añadir el repollo en juliana fina hasta que se integre sin pasarse", "Añadir la zanahoria rallada, salsa de soja, jengibre y ralladura de cítrico", "Si se usa pollo, salar filetes, untar con jengibre y ralladura, golpear con una sartén sobre papel de horno, añadir sésamo y cocinar a la plancha", "Cortar el pollo en tiras anchas y servir con el repollo"]
   },
   {
     "id": 36,
