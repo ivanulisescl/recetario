@@ -93,10 +93,10 @@
     "id": 11,
     "category": "postres",
     "title": "Cocadas",
-    "description": "Cocadas",
+    "description": "Llambionada",
     "image": "assets/img/recetas/cocadas.jpg",
-    "ingredients": ["Sin definir"],
-    "steps": ["Sin definir"]
+    "ingredients": ["Huevos", "Azúcar", "Coco rallado"],
+    "steps": ["Precalentar horno a 250°C sin aire", "Batir huevos ligeramente, añadir azúcar e incorporar el coco removiendo bien", "Depositar bolitas de masa de 3,5 cm en bandeja engrasada separadas 4 cm", "Hornear en posición baja 4-5 minutos hasta que doren", "Dejar enfriar antes de despegar con espátula"]
   },
   {
     "id": 12,
@@ -104,8 +104,8 @@
     "title": "Magdalenas de chocolate y nata",
     "description": "Magdalenas de chocolate y nata",
     "image": "assets/img/recetas/magdalenas-chocolate.jpg",
-    "ingredients": ["Sin definir"],
-    "steps": ["Sin definir"]
+    "ingredients": ["300g harina", "40g cacao puro", "1 sobre levadura", "4 huevos", "150-250g azúcar", "Ralladura naranja", "100-120g nata o yogur", "250g aceite girasol", "60g pepitas chocolate", "Azúcar para espolvorear"],
+    "steps": ["Tamizar harina, cacao y levadura (30s, v3). Retira y reserva", "Batir huevos y azúcar con mariposa (7 min, 37º, v3)", "Añadir ralladura (6 min, v3), nata y aceite (1 min, v2)", "Quitar mariposa, añadir harina (5s, v6) y pepitas y mezclar con la espátula.", "Vierte el contenido mientras precalienta el horno a 230ºC, con calor arriba y abajo o ventilador", "Reparte la masa en moldes de papel, lleanado hasta 3/4 de su capacidad, espolvorear azúcar y hornear a 210ºC por 15-18 min"]
   },
   {
     "id": 13,
@@ -140,8 +140,8 @@
     "title": "Selva negra",
     "description": "Selva negra",
     "image": "assets/img/recetas/selva-negra.jpg",
-    "ingredients": ["Sin definir"],
-    "steps": ["Sin definir"]
+    "ingredients": ["Bizcocho: 100g harina repostería, 40g cacao, 2 cdta levadura, 1 cdta azúcar vainillado, sal, 3 huevos, 150g azúcar, 100g mantequilla, 40g kirsch", "Relleno: 250g cerezas al kirsch, 600g nata fría, 1 cdta azúcar vainillado, 100g azúcar glas", "Decoración: Virutas de chocolate"],
+    "steps": ["Bizcocho: Pulverizar secos (20s, v5-10). Batir huevos y azúcar con mariposa (5 min, 37º, v3.5 y 4 min, v3). Añadir mantequilla y secos (4s, v1), unir con espátula, añadir licor y hornear a 180ºC (20-25 min).", "Relleno: Montar nata con azúcar vainillado (v3.5) y añadir azúcar glas al final.", "Montaje: Calar bizcocho con licor, rellenar con nata y cerezas, cubrir con nata restante, decorar con rosetas, cerezas y virutas de chocolate"]
   },
   {
     "id": 17,
@@ -336,7 +336,7 @@
     "id": 38,
     "category": "varios",
     "title": "Granola",
-    "description": "Granola",
+    "description": "La que prepara Cecilia",
     "image": "assets/img/recetas/granola.jpg",
     "ingredients": ["Sin definir"],
     "steps": ["Sin definir"]
@@ -345,7 +345,7 @@
     "id": 39,
     "category": "varios",
     "title": "Dip de alcachofas y espinacas",
-    "description": "Dip de alcachofas y espinacas",
+    "description": "Idea del menda",
     "image": "assets/img/recetas/dip-alcachofas-espinacas.jpg",
     "ingredients": ["Sin definir"],
     "steps": ["Sin definir"]
@@ -354,7 +354,7 @@
     "id": 40,
     "category": "varios",
     "title": "Pulpo a la plancha con verduras asadas",
-    "description": "Pulpo a la plancha con verduras asadas",
+    "description": "Otra vuelta de tuerca al pulpo",
     "image": "assets/img/recetas/pulpo-plancha-verduras-asadas.jpg",
     "ingredients": ["Sin definir"],
     "steps": ["Sin definir"]
@@ -363,7 +363,7 @@
     "id": 41,
     "category": "varios",
     "title": "Coliflor Asada con Tahini y Menta Fresca",
-    "description": "Coliflor Asada con Tahini y Menta Fresca",
+    "description": "Feliz descubrimiento de Mauro",
     "image": "assets/img/recetas/coliflor-asada-tahini-menta.jpg",
     "ingredients": ["Sin definir"],
     "steps": ["Sin definir"]
