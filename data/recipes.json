@@ -2,8 +2,8 @@
   {
     "id": 1,
     "category": "pures",
-    "title": "Puré de verduras (verde)",
-    "description": "Puré de verduras (verde)",
+    "title": "Puré de verduras",
+    "description": "El verde",
     "image": "assets/img/recetas/pure-verde.jpg",
     "ingredients": ["Cebolleta", "Puerro", "Calabacín", "Berenjena", "Pimiento verde", "Espinacas", "Brócoli pequeño", "Puñado fréjoles", "Apio (2)"],
     "steps": ["Sofreír la cebolleta y el puerro con un chorro de aceite sin dorar", "Añadir el resto de ingredientes y agua caliente sin cubrir del todo", "Echar sal y pimienta, cerrar y cocer a presión 6 minutos", "Pasar por el pasapuré o triturar en Thermomix (2 veces, nivel 4, 2:30 min)"]
@@ -12,7 +12,7 @@
     "id": 2,
     "category": "de-cuchara",
     "title": "Fréjoles con jamón y patatas",
-    "description": "Fréjoles con jamón y patatas",
+    "description": "Los de mi madre pero sin compango",
     "image": "assets/img/recetas/frejoles-patatas.jpg",
     "ingredients": ["Fréjoles", "Patatas", "Jamón en tiras (1 puñado)", "Ajo (3 dientes)", "Salsa de tomate"],
     "steps": ["Lavar y trocear fréjoles y cortar patatas en trozos", "Echar en olla rápida con 2 cm de agua, añadir sal y cocer 5-6 min", "Dorar el ajo troceado en sartén con poco aceite, añadir jamón y dejar que se haga un poco", "Añadir el refrito a la olla, verter salsa de tomate y dejar reducir 10-15 min"]
@@ -21,7 +21,7 @@
     "id": 3,
     "category": "sopas",
     "title": "Sopa de quinoa",
-    "description": "Sopa de quinoa",
+    "description": "La de Ceci",
     "image": "assets/img/recetas/sopa-quinoa.jpg",
     "ingredients": ["Medio paquete de lentejas", "2 dientes de ajo", "80 g de cebolla", "Tacos de jamón", "1,5 litros entre agua y caldo", "1 cucharadita de sal", "Pimienta", "40 g de aceite", "Opcional: 1 cucharada de pimentón"],
     "steps": ["Poner en el vaso el ajo y la cebolla. Programar 4 segundos, velocidad 5. Con la espátula, bajar los restos de las paredes del vaso", "Añadir el aceite y el jamón. Programar 5 minutos, 100º, velocidad 1", "Añadir el pimentón y mezclar con la espátula", "Incorporar el caldo y el agua. Programar 10 minutos, 100º, velocidad 2", "Añadir la soja de quinoa y la pimienta. Programar 25 minutos, 100º, giro a la izquierda, velocidad 1. NOTA: Si se van a añadir fideos, hacerlo cuando falte el tiempo que marca el paquete para su cocción"]
@@ -30,7 +30,7 @@
     "id": 4,
     "category": "sopas",
     "title": "Caldo",
-    "description": "Caldo",
+    "description": "El de toda la vida",
     "image": "assets/img/recetas/caldo-jamon-pollo.jpg",
     "ingredients": ["Hueso de jamón", "Hebra de jamón", "Muslo de gallina", "Trozo de chamón", "Puerro", "Zanahoria", "Sal", "Azafrán"],
     "steps": ["Llenar la olla rápida con 3/4 de agua, y poner a hervir el jamón, chamón y pollo. Dejar que vaya soltando y vamos desespumando hasta que pare", "Añadimos luego el puerro y la zanahoria y dejamos 45 min con presión", "Destapamos, añadimos azafrán y sal y dejamos otros 20 min sin presión para que reduzca"]
@@ -39,7 +39,7 @@
     "id": 5,
     "category": "pures",
     "title": "Puré rojo",
-    "description": "Puré rojo",
+    "description": "El rojo",
     "image": "assets/img/recetas/pure-rojo.jpg",
     "ingredients": ["puerro (4)", "calabacín", "Calabaza", "Zanahoria (2)", "Pimiento rojo (2)", "Tomate rallado (4)", "sal", "pimienta"],
     "steps": ["Pelar el calabacín para que el puré quede rojo", "Echar el pimiento rojo en dos mitades encima de todo para poder retirar la piel tras la cocción", "Pochar lentamente el puerro sin que dore", "Añadir el calabacín y pochar un poco", "Añadir el resto de elementos, salar y echar agua hasta 2/3 de la pota", "Dejar 6 min en la olla express"]
@@ -48,7 +48,7 @@
     "id": 6,
     "category": "varios",
     "title": "Guacamole",
-    "description": "Guacamole",
+    "description": "El clásico",
     "image": "assets/img/recetas/guacamole.jpg",
     "ingredients": ["1 aguacate", "1/4 de cebolla", "1 lima (vinagre como solución de emergencia)", "pellizco de sal", "chorro de aceite", "pimienta", "tabasco"],
     "steps": ["Mezclar todo"]
@@ -57,7 +57,7 @@
     "id": 7,
     "category": "ensaladas",
     "title": "Ceviche de coliflor",
-    "description": "Ceviche de coliflor",
+    "description": "Idea de un servidor",
     "image": "assets/img/recetas/ceviche-coliflor.jpg",
     "ingredients": ["1 cabeza de coliflor en trocitos", "1/4 de taza de cebolla morada en trocitos", "2 tomates en trocitos", "1 taza de pepino en trocitos", "1 taza de mango fresco en trocitos", "1/4 taza de cilantro finamente picado", "2 limones (ajustar al gusto)", "Sal de mar al gusto", "Pimienta al gusto"],
     "steps": ["Hervir agua y cocer los floretes de coliflor tapados a fuego mínimo por 4 minutos, escurrir y enfriar", "Cortar cebolla, tomate, pepino y mango en trozos pequeños y mezclar con el jugo de limón y cilantro picado", "Cortar la coliflor fría en trozos muy pequeños e incorporar a la mezcla", "Salpimentar, añadir chile al gusto y dejar reposar en el refrigerador 20 minutos", "Servir con tostadas"]
@@ -66,7 +66,7 @@
     "id": 8,
     "category": "varios",
     "title": "Berenjenas rellenas",
-    "description": "Berenjenas rellenas",
+    "description": "Mi especialidad",
     "image": "assets/img/recetas/berenjenas-rellenas.jpg",
     "ingredients": ["4 berenjenas.", "4 latas de atún en aceite.", "2 cebollas.", "100 gr de salsa de tomate o tomate frito.", "100 gr de queso rallado tipo mozzarella o emmental, que se pueda gratinar bien.", "1/4 de cucharadita de postre de comino en polvo.", "1/4 de cucharadita de postre de pimentón dulce.", "Aceite de oliva, sal y pimienta negra recién molida."],
     "steps": ["\"Hornear berenjenas a 180°C durante 40-45 min hasta que doren", "Picar y cocinar cebollas en sartén con aceite y sal hasta que transparenten", "Sacar carne de las berenjenas con cuchara sin romper la piel", "Picar la carne de berenjena, añadir a la sartén con cebolla y cocinar 5 min", "Incorporar atún escurrido, tomate, comino, pimentón, sal y pimienta"]
@@ -75,7 +75,7 @@
     "id": 9,
     "category": "ensaladas",
     "title": "Ensalada de col",
-    "description": "Ensalada de col",
+    "description": "Coleslaw que dicen los guiris",
     "image": "assets/img/recetas/ensalada-col.jpg",
     "ingredients": ["250g de repollo", "150g de zanahorias", "150g de manzana granny", "Para la salsa", "1 yogur natural", "10g de vinagre de jerez", "70g de mayonesa", "10g de azúcar", "5g de mostaza", "5g de sal", "5g de cebolla", "5g de aceite de oliva virgen extra"],
     "steps": ["\"Cortar el repollo en cuatro trozos y programar 3 segundos, velocidad 5"]
@@ -84,7 +84,7 @@
     "id": 10,
     "category": "de-cuchara",
     "title": "Repollo guisado Thermomix",
-    "description": "Repollo guisado Thermomix",
+    "description": "El que hice mil veces",
     "image": "assets/img/recetas/repollo-guisado.jpg",
     "ingredients": ["350 g de repollo en juliana", "400 g agua", "50 g tomate triturado", "150 g cebolla", "100 g zanahoria", "1 diente de ajo", "100 g pimiento verde", "150 g chorizo o salchicha fresca", "1 cucharadita pimentón", "1 cucharadita granos de pimienta", "1 hoja laurel", "1 cucharadita sal"],
     "steps": ["Poner en el vaso de Thermomix la zanahoria, el ajo, la cebolla, el pimiento y el aceite", "Triturar 4 segundos a velocidad 4", "Sofreír 5 minutos a 120°C, velocidad 1", "Añadir el chorizo en rodajas y rehogar 2 minutos a 120°C, giro inverso, velocidad 1", "Añadir el repollo, el agua, salpimentar, poner el tomate triturado y programar 20 minutos a 120°C, giro inverso, velocidad cuchara"]
@@ -111,7 +111,7 @@
     "id": 13,
     "category": "ensaladas",
     "title": "Escalivada",
-    "description": "Escalivada",
+    "description": "Perfecta como acompañamiento",
     "image": "assets/img/recetas/escalivada.jpg",
     "ingredients": ["cebolleta", "puerro", "calabacín"],
     "steps": ["Paso 1", "Paso 2", "Paso 3"]
@@ -147,7 +147,7 @@
     "id": 17,
     "category": "de-cuchara",
     "title": "Lentejas",
-    "description": "Lentejas",
+    "description": "Las de toda la vida, sin compango",
     "image": "assets/img/recetas/lentejas.jpg",
     "ingredients": ["1 vaso de lentejas", "8 vasos de agua fría", "Patatas", "1 puerro entero", "1/2 pimiento verde", "2 zanahorias", "Jamón y/o chorizo", "2 tomates triturados", "1 cucharadita de sal", "Sofrito (4 dientes de ajo, 1 cebolla, pimentón)"],
     "steps": ["\"Cocer en olla a presión 20 min las lentejas, agua, patatas, pimiento, puerro, zanahorias, carne, tomate y sal", "Hacer un sofrito con ajo y cebolla"]
@@ -156,7 +156,7 @@
     "id": 18,
     "category": "de-cuchara",
     "title": "Guisantes con jamón",
-    "description": "Guisantes con jamón",
+    "description": "Sencillos y sabrosos",
     "image": "assets/img/recetas/guisantes-jamon.jpg",
     "ingredients": ["Guisantes", "Tacos de jamón", "Cebolla", "Harina", "Vino blanco", "Sal", "Pimentón Cocer los guisantes según las instrucciones del paquete (pueden quedar duros)"],
     "steps": ["Pochar la cebolla y añadir los tacos de jamón", "Incorporar la harina, cocinarla y añadir un poco de pimentón", "Verter el vino blanco y un par de garcillas del agua de cocción de los guisantes", "Añadir los guisantes y ajustar el agua si es necesario"]
@@ -309,7 +309,7 @@
     "id": 35,
     "category": "de-cuchara",
     "title": "Repollo salteado con pollo",
-    "description": "Repollo salteado con pollo",
+    "description": "Idea sacada de Ire",
     "image": "assets/img/recetas/repollo-salteado-pollo.jpg",
     "ingredients": ["Repollo (unas 6 hojas)", "1 cebolla morada mediana grande", "Zanahoria rallada", "Salsa de soja", "Jengibre rallado", "Ralladura de limón o lima", "Opcional: Pollo o gambas"],
     "steps": ["Pochar la cebolla morada en juliana y añadir el repollo en juliana fina hasta que se integre sin pasarse", "Añadir la zanahoria rallada, salsa de soja, jengibre y ralladura de cítrico", "Si se usa pollo, salar filetes, untar con jengibre y ralladura, golpear con una sartén sobre papel de horno, añadir sésamo y cocinar a la plancha", "Cortar el pollo en tiras anchas y servir con el repollo"]
