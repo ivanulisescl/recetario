@@ -51,7 +51,7 @@
     "description": "El clásico",
     "image": "assets/img/recetas/guacamole.jpg",
     "ingredients": ["1 aguacate", "1/4 de cebolla", "1 lima (vinagre como solución de emergencia)", "pellizco de sal", "chorro de aceite", "pimienta", "tabasco"],
-    "steps": ["Mezclar todo"]
+    "steps": ["Preparar y servir"]
   },
   {
     "id": 7,
@@ -95,8 +95,8 @@
     "title": "Cocadas",
     "description": "Cocadas",
     "image": "assets/img/recetas/cocadas.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Sin definir"],
+    "steps": ["Sin definir"]
   },
   {
     "id": 12,
@@ -104,8 +104,8 @@
     "title": "Magdalenas de chocolate y nata",
     "description": "Magdalenas de chocolate y nata",
     "image": "assets/img/recetas/magdalenas-chocolate.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Sin definir"],
+    "steps": ["Sin definir"]
   },
   {
     "id": 13,
@@ -113,26 +113,26 @@
     "title": "Escalivada",
     "description": "Perfecta como acompañamiento",
     "image": "assets/img/recetas/escalivada.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["2 pimientos rojos grandes", "1 berenjena", "1 cebolla", "1 diente de ajo", "2 tomates", "Sal", "Aceite de oliva"],
+    "steps": ["Precalentar horno a 210°C", "Lavar verduras, aceitarlas y asar 30 min", "Dar la vuelta y asar otros 30 min", "Dejar enfriar, pelar y cortar en tiras (cebolla en juliana)", "Aliñar con ajo picado, sal y aceite de oliva"]
   },
   {
     "id": 14,
     "category": "ensaladas",
     "title": "Ensalada de ahumados",
-    "description": "Ensalada de ahumados",
+    "description": "Sabrosa y fresquina",
     "image": "assets/img/recetas/ensalada-ahumados.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Canónigos", "Bonito", "Gula", "Salmón o bacalao ahumado", "Palitos de mar", "Aceitunas negras", "Huevo cocido"],
+    "steps": ["Preparar y servir"]
   },
   {
     "id": 15,
     "category": "ensaladas",
     "title": "Ensalada de aguacate y mango",
-    "description": "Ensalada de aguacate y mango",
+    "description": "La primera que hicimos con mango",
     "image": "assets/img/recetas/ensalada-aguacata-mango.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Endivia", "Pepino en cuadrados", "Aguacate", "Manzana granny", "Mango en cuadrados", "Feta", "Sésamo", "Vinagre de jerez", "Sal", "Aceite de oliva"],
+    "steps": ["Preparar y servir"]
   },
   {
     "id": 16,
@@ -140,8 +140,8 @@
     "title": "Selva negra",
     "description": "Selva negra",
     "image": "assets/img/recetas/selva-negra.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Sin definir"],
+    "steps": ["Sin definir"]
   },
   {
     "id": 17,
@@ -167,8 +167,8 @@
     "title": "Pollo guisado",
     "description": "Pollo guisado",
     "image": "assets/img/recetas/pollo-guisado.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Sin definir"],
+    "steps": ["Sin definir"]
   },
   {
     "id": 20,
@@ -176,8 +176,8 @@
     "title": "Brownie",
     "description": "Brownie",
     "image": "assets/img/recetas/brownie.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Sin definir"],
+    "steps": ["Sin definir"]
   },
   {
     "id": 21,
@@ -185,8 +185,8 @@
     "title": "Sándwich mediterráneo",
     "description": "Sándwich mediterráneo",
     "image": "assets/img/recetas/sandwich-mediterraneo.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Sin definir"],
+    "steps": ["Sin definir"]
   },
   {
     "id": 22,
@@ -194,17 +194,17 @@
     "title": "Salmón al estuche de vapor",
     "description": "Salmón al estuche de vapor",
     "image": "assets/img/recetas/salmon-estuche-vapor.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Sin definir"],
+    "steps": ["Sin definir"]
   },
   {
     "id": 23,
     "category": "ensaladas",
     "title": "Ensalada mango 2.0",
-    "description": "Ensalada mango 2.0",
+    "description": "La segunda con mango",
     "image": "assets/img/recetas/ensalada-mango-2.0.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Rúcula", "Cebolla roja en juliana y encurtida", "Zanahoria en hilos", "Pepino en hilos", "Aguacate en láminas", "Mango", "Parmesano en lascas", "Aliño: Aceite y lima (proporción 1 a 3), pimienta, sal maldon y cilantro", "Opcional: Cacahuetes"],
+    "steps": ["Disponer la rúcula como base y añadir la cebolla encurtida, la zanahoria, el pepino, el aguacate y el mango", "Esparcir las lascas de parmesano y los cacahuetes si se desea", "Preparar el aliño batiendo el aceite, la lima, la pimienta, la sal y el cilantro picado hasta emulsionar", "Verter el aliño sobre la ensalada justo antes de servir"]
   },
   {
     "id": 24,
@@ -212,8 +212,8 @@
     "title": "Patatas con pintarroxa",
     "description": "Patatas con pintarroxa",
     "image": "assets/img/recetas/patatas-pintarroxa.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Sin definir"],
+    "steps": ["Sin definir"]
   },
   {
     "id": 25,
@@ -221,8 +221,8 @@
     "title": "Torrijas",
     "description": "Torrijas",
     "image": "assets/img/recetas/torrijas.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Sin definir"],
+    "steps": ["Sin definir"]
   },
   {
     "id": 26,
@@ -230,8 +230,8 @@
     "title": "Pollo  para fajitas",
     "description": "Pollo  para fajitas",
     "image": "assets/img/recetas/pollo-fajitas.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Sin definir"],
+    "steps": ["Sin definir"]
   },
   {
     "id": 27,
@@ -239,8 +239,8 @@
     "title": "Patatas con pescado",
     "description": "Patatas con pescado",
     "image": "assets/img/recetas/patatas-pescado.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Sin definir"],
+    "steps": ["Sin definir"]
   },
   {
     "id": 28,
@@ -248,8 +248,8 @@
     "title": "Ensalada de rúcula",
     "description": "Ensalada de rúcula",
     "image": "assets/img/recetas/ensalada-rucula.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Rúcula", "Tomate", "Aguacate", "Mozzarella", "Aceitunas negras", "Tomate seco", "Vinagreta con pesto (medio vaso de aceite, chorro de vinagre, sal, pimienta y 2 cucharadas de pesto)"],
+    "steps": ["Mezclar en un bol la rúcula con el tomate, el aguacate laminado, la mozzarella, las aceitunas y el tomate seco", "Preparar la vinagreta batiendo el aceite, el vinagre, el pesto, la sal y la pimienta hasta emulsionar", "Verter la vinagreta sobre la ensalada y servir inmediatamente"]
   },
   {
     "id": 29,
@@ -258,16 +258,16 @@
     "description": "Pesto",
     "image": "assets/img/recetas/pesto.jpg",
     "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "steps": ["Sin definir"]
   },
   {
     "id": 30,
     "category": "ensaladas",
     "title": "Ensalada pollo y bacon",
-    "description": "Ensalada pollo y bacon",
+    "description": "Una de las estrellas pa un viernes",
     "image": "assets/img/recetas/ensalada-pollo-bacon.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["1 paquete de canónigos + rúcula", "Pimiento rojo", "Pimiento verde", "Cebolla morada", "Pollo (asado o plancha)", "Bacon", "Parmesano", "Cherrys"],
+    "steps": ["Saltear los pimientos y la cebolla en tiras a fuego fuerte estilo wok hasta que ablanden un poco", "Preparar el pollo al horno (180°C por 40 min) o a la plancha", "Freír el bacon y retirar el exceso de grasa", "Mezclar los canónigos y rúcula con las verduras salteadas, el pollo, el bacon, el queso parmesano y los tomates cherry"]
   },
   {
     "id": 31,
@@ -275,8 +275,8 @@
     "title": "Mousse de queso y yogurt",
     "description": "Mousse de queso y yogurt",
     "image": "assets/img/recetas/mousse-queso-yogurt.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Sin definir"],
+    "steps": ["Sin definir"]
   },
   {
     "id": 32,
@@ -284,17 +284,17 @@
     "title": "Pollo al limón",
     "description": "Pollo al limón",
     "image": "assets/img/recetas/pollo-limon.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Sin definir"],
+    "steps": ["Sin definir"]
   },
   {
     "id": 33,
     "category": "ensaladas",
     "title": "Ensalada de lentejas",
-    "description": "Ensalada de lentejas",
+    "description": "Una delicia pa entre semana",
     "image": "assets/img/recetas/ensalada-lentejas.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Lentejas de bote", "Cebolla morada", "Pepino semipelado", "Pimiento rojo", "Huevo cocido", "Aceite", "Cilantro", "Sal", "Pimienta"],
+    "steps": ["Preparar y servir"]
   },
   {
     "id": 34,
@@ -302,8 +302,8 @@
     "title": "Tortitas pollo picado",
     "description": "Tortitas pollo picado",
     "image": "assets/img/recetas/tortitas-pollo-picado.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Sin definir"],
+    "steps": ["Sin definir"]
   },
   {
     "id": 35,
@@ -318,10 +318,10 @@
     "id": 36,
     "category": "ensaladas",
     "title": "Ensalada de salmón y naranja",
-    "description": "Ensalada de salmón y naranja",
+    "description": "Sabrosa y refrescante como ninguna",
     "image": "assets/img/recetas/ensalada-salmon-naranja.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Rúcula", "Mozzarella", "Naranja", "Salmón ahumado", "Piñones tostados", "Aliño de mostaza, miel y limón"],
+    "steps": ["Preparar y servir"]
   },
   {
     "id": 37,
@@ -329,8 +329,8 @@
     "title": "Albóndigas de pollo",
     "description": "Albóndigas de pollo",
     "image": "assets/img/recetas/albondigas-pollo.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Sin definir"],
+    "steps": ["Sin definir"]
   },
   {
     "id": 38,
@@ -338,8 +338,8 @@
     "title": "Granola",
     "description": "Granola",
     "image": "assets/img/recetas/granola.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Sin definir"],
+    "steps": ["Sin definir"]
   },
   {
     "id": 39,
@@ -347,8 +347,8 @@
     "title": "Dip de alcachofas y espinacas",
     "description": "Dip de alcachofas y espinacas",
     "image": "assets/img/recetas/dip-alcachofas-espinacas.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Sin definir"],
+    "steps": ["Sin definir"]
   },
   {
     "id": 40,
@@ -356,8 +356,8 @@
     "title": "Pulpo a la plancha con verduras asadas",
     "description": "Pulpo a la plancha con verduras asadas",
     "image": "assets/img/recetas/pulpo-plancha-verduras-asadas.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Sin definir"],
+    "steps": ["Sin definir"]
   },
   {
     "id": 41,
@@ -365,7 +365,7 @@
     "title": "Coliflor Asada con Tahini y Menta Fresca",
     "description": "Coliflor Asada con Tahini y Menta Fresca",
     "image": "assets/img/recetas/coliflor-asada-tahini-menta.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Paso 1", "Paso 2", "Paso 3"]
+    "ingredients": ["Sin definir"],
+    "steps": ["Sin definir"]
   }
 ]
