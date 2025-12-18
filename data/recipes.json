@@ -275,8 +275,8 @@
     "title": "Mousse de queso y yogurt",
     "description": "De mis postres favoritos",
     "image": "assets/img/recetas/mousse-queso-yogurt.jpg",
-    "ingredients": ["Sin definir"],
-    "steps": ["Sin definir"]
+    "ingredients": ["Base:", "80g mantequilla ambiente", "200g galletas Digestive Gullón sin azúcar", "Mousse:", "2 yogures griegos", "125g queso Philadelphia", "75g azúcar", "125g nata", "Mermelada sin azúcar", "Decoración:", "Arándanos", "Frambuesas", "Menta"],
+    "steps": ["Base:", "Poner las galletas en el vaso y pulverizar 5 segundos, velocidad 10", "Añadir la mantequilla y mezclar 5 segundos, velocidad 5", "Mousse:", "Poner la mariposa en el vaso y añadir el queso y el azúcar. Programar 2min, velocidad 2", "Añadir la nata y programar 20 segundos, velocidad 4", "Echar los yogures griegos y mezclar 5 segundos, velocidad 2"]
   },
   {
     "id": 32,
@@ -299,11 +299,11 @@
   {
     "id": 34,
     "category": "varios",
-    "title": "Tortitas pollo picado",
-    "description": "Habrá que revisar esta receta",
-    "image": "assets/img/recetas/tortitas-pollo-picado.jpg",
-    "ingredients": ["Sin definir"],
-    "steps": ["Sin definir"]
+    "title": "Fajitas pollo picado",
+    "description": "La opción rápida para fajitas",
+    "image": "assets/img/recetas/fajitas-pollo-picado.jpg",
+    "ingredients": ["Pollo picado", "Vino blanco", "Cebolla", "Queso emmental rallado", "Zanahoria rallada", "Apio", "Maíz", "Jalapeños o tabasco", "Salsa Old El Paso", "Tortitas"],
+    "steps": ["Pochar cebolla", "Añadir el pollo y cocinar bien", "Con el pollo cocinado, añadir chorro de vino blanco", "Reservar y servir con el resto de ingredientes"]
   },
   {
     "id": 35,
