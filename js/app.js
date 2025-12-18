@@ -117,7 +117,7 @@ async function renderHome() {
 
   app.innerHTML = `
     <section class="space-y-6">
-      <h1 class="text-2xl md:text-3xl font-bold">Elige una categoría</h1>
+      <h1 class="text-2xl md:text-3xl font-bold">Categorías</h1>
       <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
         ${cards.join('')}
       </div>
