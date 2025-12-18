@@ -96,7 +96,7 @@
     "description": "Una llambionada buena",
     "image": "assets/img/recetas/cocadas.jpg",
     "ingredients": ["Huevos", "Azúcar", "Coco rallado"],
-    "steps": ["Precalentar horno a 250°C sin aire", "Batir huevos ligeramente, añadir azúcar e incorporar el coco removiendo bien", "Depositar bolitas de masa de 3,5 cm en bandeja engrasada separadas 4 cm", "Hornear en posición baja 4-5 minutos hasta que doren", "Dejar enfriar antes de despegar con espátula"]
+    "steps": ["Precalentar horno a 250°C sin aire", "Batir huevos ligeramente, añadir azúcar e incorporar el coco removiendo bien", "Con un porcionador de helados pequeño (3,5 cm), una cucharilla, o una manga pastelera, deposita bolitas de masa sobre una bandeja previamente engrasada o una lámina de silicona, separándolas unos 4 cm. Es posible que con esta cantidad tengas que hacer dos bandejas", "Cuando el horno haya alcanzado la temperatura máxima, mete la bandeja en la posición más baja, y hornea unos 4/5 minutos. Cuando empiecen a dorarse, sácalas y déjalas enfriar antes de despegarlas de la bandeja (la forma más fácil es pasar un cuchillo o espátula por la base)", "Están deliciosas, un poco crujientes por fuera y tiernas por dentro, con la base ligeramente caramelizadas. Se conservan entre cuatro y seis semanas en un recipiente hermético, y son ideales para hacer en navidad, o aprovechando que has puesto el horno para otra cosa, ya que la elaboración y horneado son rapidísimos."]
   },
   {
     "id": 12,
@@ -104,7 +104,7 @@
     "title": "Magdalenas de chocolate y nata",
     "description": "Mufin que se dice ahora",
     "image": "assets/img/recetas/magdalenas-chocolate.jpg",
-    "ingredients": ["300g harina", "40g cacao puro", "1 sobre levadura", "4 huevos", "150-250g azúcar", "Ralladura naranja", "100-120g nata o yogur", "250g aceite girasol", "60g pepitas chocolate", "Azúcar para espolvorear"],
+    "ingredients": ["300g harina", "40g cacao puro", "1 sobre levadura Royal", "4 huevos", "150-250g azúcar", "Ralladura media naranja", "100-120g nata montar o yogur", "250g aceite girasol", "60g pepitas chocolate", "Azúcar para espolvorear"],
     "steps": ["Tamizar harina, cacao y levadura (30s, v3). Retira y reserva", "Batir huevos y azúcar con mariposa (7 min, 37º, v3)", "Añadir ralladura (6 min, v3), nata y aceite (1 min, v2)", "Quitar mariposa, añadir harina (5s, v6) y pepitas y mezclar con la espátula.", "Vierte el contenido mientras precalienta el horno a 230ºC, con calor arriba y abajo o ventilador", "Reparte la masa en moldes de papel, lleanado hasta 3/4 de su capacidad, espolvorear azúcar y hornear a 210ºC por 15-18 min"]
   },
   {
@@ -114,7 +114,7 @@
     "description": "Perfecta como acompañamiento",
     "image": "assets/img/recetas/escalivada.jpg",
     "ingredients": ["2 pimientos rojos grandes", "1 berenjena", "1 cebolla", "1 diente de ajo", "2 tomates", "Sal", "Aceite de oliva"],
-    "steps": ["Precalentar horno a 210°C", "Lavar verduras, aceitarlas y asar 30 min", "Dar la vuelta y asar otros 30 min", "Dejar enfriar, pelar y cortar en tiras (cebolla en juliana)", "Aliñar con ajo picado, sal y aceite de oliva"]
+    "steps": ["Precalentar horno a 210°C arriba y abajo", "Lavar verduras, aceitarlas y asar 30 min", "Dar la vuelta y asar otros 30 min", "Dejar enfriar, pelar y cortar en tiras (cebolla en juliana)", "Aliñar con ajo picado, sal y aceite de oliva"]
   },
   {
     "id": 14,
