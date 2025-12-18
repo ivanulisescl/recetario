@@ -41,7 +41,7 @@
     "title": "Puré rojo",
     "description": "El rojo",
     "image": "assets/img/recetas/pure-rojo.jpg",
-    "ingredients": ["puerro (4)", "calabacín", "Calabaza", "Zanahoria (2)", "Pimiento rojo (2)", "Tomate rallado (4)", "sal", "pimienta"],
+    "ingredients": ["Puerro (4)", "Calabacín", "Calabaza", "Zanahoria (2)", "Pimiento rojo (2)", "Tomate rallado (4)", "Sal", "Pimienta"],
     "steps": ["Pelar el calabacín para que el puré quede rojo", "Echar el pimiento rojo en dos mitades encima de todo para poder retirar la piel tras la cocción", "Pochar lentamente el puerro sin que dore", "Añadir el calabacín y pochar un poco", "Añadir el resto de elementos, salar y echar agua hasta 2/3 de la pota", "Dejar 6 min en la olla express"]
   },
   {
@@ -68,8 +68,8 @@
     "title": "Berenjenas rellenas",
     "description": "Mi especialidad",
     "image": "assets/img/recetas/berenjenas-rellenas.jpg",
-    "ingredients": ["4 berenjenas.", "4 latas de atún en aceite.", "2 cebollas.", "100 gr de salsa de tomate o tomate frito.", "100 gr de queso rallado tipo mozzarella o emmental, que se pueda gratinar bien.", "1/4 de cucharadita de postre de comino en polvo.", "1/4 de cucharadita de postre de pimentón dulce.", "Aceite de oliva, sal y pimienta negra recién molida."],
-    "steps": ["\"Hornear berenjenas a 180°C durante 40-45 min hasta que doren", "Picar y cocinar cebollas en sartén con aceite y sal hasta que transparenten", "Sacar carne de las berenjenas con cuchara sin romper la piel", "Picar la carne de berenjena, añadir a la sartén con cebolla y cocinar 5 min", "Incorporar atún escurrido, tomate, comino, pimentón, sal y pimienta"]
+    "ingredients": ["4 berenjenas.", "4 latas de atún en aceite.", "2 cebollas.", "100 gr de salsa de tomate o tomate frito.", "100 gr de queso rallado tipo mozzarella o emmental, que se pueda gratinar bien.", "1/4 de cucharadita de postre de comino en polvo", "1/4 de cucharadita de postre de pimentón dulce.", "Aceite de oliva", "Sal", "Pimienta negra recién molida"],
+    "steps": ["Hornear berenjenas con papel de horno, calor arriba y abajo, a 180°C durante 40-45 min hasta que doren", "Picar y cocinar cebollas en sartén con aceite y sal hasta que transparenten", "Sacar carne de las berenjenas con cuchara sin romper la piel", "Picar la carne de berenjena, añadir a la sartén con cebolla y cocinar 5 min", "Incorporar atún escurrido, tomate, pimentón, sal y pimienta (opcional el comino) y cocinar otros 5 min", "Rellenar las pieles con la mezcla, cubrir con queso rallado y hornear a 180°C unos 10 min hasta gratinar", "Servir con orégano y pimienta por encima."]
   },
   {
     "id": 9,
@@ -77,7 +77,7 @@
     "title": "Ensalada de col",
     "description": "Coleslaw que dicen los guiris",
     "image": "assets/img/recetas/ensalada-col.jpg",
-    "ingredients": ["250g de repollo", "150g de zanahorias", "150g de manzana granny", "Para la salsa", "1 yogur natural", "10g de vinagre de jerez", "70g de mayonesa", "10g de azúcar", "5g de mostaza", "5g de sal", "5g de cebolla", "5g de aceite de oliva virgen extra"],
+    "ingredients": ["250g de repollo", "150g de zanahorias", "150g de manzana granny", "Para la salsa:", "1 yogur natural", "10g de vinagre de jerez", "70g de mayonesa", "10g de azúcar", "5g de mostaza", "5g de sal", "5g de cebolla", "5g de aceite de oliva virgen extra"],
     "steps": ["\"Cortar el repollo en cuatro trozos y programar 3 segundos, velocidad 5"]
   },
   {
@@ -87,7 +87,7 @@
     "description": "El que hice mil veces",
     "image": "assets/img/recetas/repollo-guisado.jpg",
     "ingredients": ["350 g de repollo en juliana", "400 g agua", "50 g tomate triturado", "150 g cebolla", "100 g zanahoria", "1 diente de ajo", "100 g pimiento verde", "150 g chorizo o salchicha fresca", "1 cucharadita pimentón", "1 cucharadita granos de pimienta", "1 hoja laurel", "1 cucharadita sal"],
-    "steps": ["Poner en el vaso de Thermomix la zanahoria, el ajo, la cebolla, el pimiento y el aceite", "Triturar 4 segundos a velocidad 4", "Sofreír 5 minutos a 120°C, velocidad 1", "Añadir el chorizo en rodajas y rehogar 2 minutos a 120°C, giro inverso, velocidad 1", "Añadir el repollo, el agua, salpimentar, poner el tomate triturado y programar 20 minutos a 120°C, giro inverso, velocidad cuchara"]
+    "steps": ["Poner en el vaso de Thermomix la zanahoria, el ajo, la cebolla, el pimiento y el aceite", "Triturar 4 segundos a velocidad 4", "Sofreír 5 minutos a 120°C, velocidad 1", "Añadir el chorizo en rodajas y rehogar 2 minutos a 120°C, giro inverso, velocidad 1", "Añadir el repollo, el agua, salpimentar, poner el tomate triturado y programar 20 minutos a 120°C, giro inverso, velocidad cuchara", "Si se hace en olla rápida seguir los mismos pasos y cocinar durante 10 min"]
   },
   {
     "id": 11,
@@ -221,8 +221,8 @@
     "title": "Torrijas",
     "description": "Las clásicas",
     "image": "assets/img/recetas/torrijas.jpg",
-    "ingredients": ["Sin definir"],
-    "steps": ["Sin definir"]
+    "ingredients": ["Pan de brioche", "Leche", "Canela en rama", "Piel de limón", "Vino (El Guiso)", "Azúcar", "Huevos"],
+    "steps": ["\"Hervir leche con canela y piel de limón en un cazo"]
   },
   {
     "id": 26,
