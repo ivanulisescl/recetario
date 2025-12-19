@@ -185,8 +185,8 @@
     "title": "Sándwich mediterráneo",
     "description": "Sabor italiano",
     "image": "assets/img/recetas/sandwich-mediterraneo.jpg",
-    "ingredients": ["Piso inferior: Salami, Jamón York, Queso", "Piso superior: Tomate seco, Aceitunas verdes, Mozzarella, Rúcula, Alcaparras (opcional)", "Nota: Capa fina de pesto por todas las caras del pan Montar el primer piso con los embutidos y el queso"],
-    "steps": ["Montar y listo"]
+    "ingredients": ["Piso inferior: Salami, Jamón York, Queso", "Piso superior: Tomate seco, Aceitunas verdes, Mozzarella, Rúcula, Alcaparras (opcional)", "Nota: Capa fina de pesto por todas las caras del pan"],
+    "steps": ["Montar los dos pisos y listo"]
   },
   {
     "id": 22,
@@ -194,8 +194,8 @@
     "title": "Salmón al estuche de vapor",
     "description": "Sano y nutritivo",
     "image": "assets/img/recetas/salmon-estuche-vapor.jpg",
-    "ingredients": ["1 cebolleta", "1 puñado de espárragos trigueros", "Salmón", "8 tomates cherry", "2 cucharadas de aceite de ajo", "2 cucharadas de salsa de soja", "Pimienta", "Cebollino picado", "Sésamo negro"],
-    "steps": ["\"Poner en el estuche la cebolla picada y los trigueros troceados con el aceite de ajo y pimienta"]
+    "ingredients": ["1 cebolleta", "1 puñado de espárragos trigueros", "Salmón", "8 tomates cherry", "Aceite de ajo", "Salsa de soja", "Pimienta", "Cebollino", "Sésamo negro"],
+    "steps": ["Ponemos en el estuche la cebolla picada y los trigueros troceados con un poco de pimienta y 2 cucharadas soperas de aceite de ajo", "Cocinar 4 minutos a potencia máxima", "Añadimos dos cucharadas soperas de soja, los cherrys y el salmón salpimentado", "Cocinar 3 minutos y 20 segundos a potencia máxima", "Adornar con cebollino picado y sésamo negro"]
   },
   {
     "id": 23,
@@ -203,7 +203,7 @@
     "title": "Ensalada mango 2.0",
     "description": "La segunda con mango",
     "image": "assets/img/recetas/ensalada-mango-2.0.jpg",
-    "ingredients": ["Rúcula", "Cebolla roja en juliana y encurtida", "Zanahoria en hilos", "Pepino en hilos", "Aguacate en láminas", "Mango", "Parmesano en lascas", "Aliño: Aceite y lima (proporción 1 a 3), pimienta, sal maldon y cilantro", "Opcional: Cacahuetes"],
+    "ingredients": ["Rúcula", "Cebolla roja en juliana y encurtida", "Zanahoria en hilos", "Pepino en hilos", "Aguacate en láminas", "Mango", "Parmesano en lascas", "Aliño: Aceite y 2 limas (proporción 1 a 3), pimienta, sal maldon y cilantro", "Opcional: Cacahuetes"],
     "steps": ["Disponer la rúcula como base y añadir la cebolla encurtida, la zanahoria, el pepino, el aguacate y el mango", "Esparcir las lascas de parmesano y los cacahuetes si se desea", "Preparar el aliño batiendo el aceite, la lima, la pimienta, la sal y el cilantro picado hasta emulsionar", "Verter el aliño sobre la ensalada justo antes de servir"]
   },
   {
@@ -213,7 +213,7 @@
     "description": "Pa ponese las botas",
     "image": "assets/img/recetas/patatas-pintarroxa.jpg",
     "ingredients": ["Pintarroja", "16 gambones tigre", "2 dientes de ajo", "1 cebolla", "Harina", "Medio vaso de vino blanco", "Patatas tipo panadera", "Perejil", "Sal", "Aceite"],
-    "steps": ["Caldo: Sofreír cabezas y pieles de gambones, cocer 15 min en agua aplastándolas y colar. Cocer trozos de pescado en agua aparte 15 min y colar", "Pota: Dorar ajos rallados y una cebolleta. Cocinar 2 cucharaditas de harina, añadir medio vaso de vino y evaporar", "Final: Añadir perejil, patatas y los caldos. Cuando las patatas estén casi listas, incorporar la pintarroja y gambones 3 minutos más"]
+    "steps": ["Caldo: Sofreír cabezas y pieles de gambones, cocer 15 min en agua aplastándolas y colar.", "Caldo: Sofreir y cocer trozos de pescado en agua aparte 15 min y colar", "Pota: Dorar ajos rallados y una cebolleta. Cocinar 2 cucharaditas de harina, añadir medio vaso de vino y evaporar", "Final: Añadir el perejil y las patatas y mezclar un par de minutos. Incoporar el caldo y salar. Cuando las patatas estén casi listas, incorporar la pintarroja y gambones 3 minutos más"]
   },
   {
     "id": 25,
@@ -222,7 +222,7 @@
     "description": "Las clásicas",
     "image": "assets/img/recetas/torrijas.jpg",
     "ingredients": ["Pan de brioche", "Leche", "Canela en rama", "Piel de limón", "Vino (El Guiso)", "Azúcar", "Huevos"],
-    "steps": ["\"Hervir leche con canela y piel de limón en un cazo"]
+    "steps": ["En un cazo hervimos leche con un par de ramas de canela y unas tiras de piel de limón", "En otro cazo hervimos vino El Guiso mezclado con agua y azúcar y dejamos que se evapore el alcohol", "Mojamos las torrijas en la leche y las empapamos bien, las pasamos por huevo batido y las freímos con el aceite bien caliente", "Las dejamos recudir en papel de cocina y las ponemos en un recipiente, al que añadimos el almíbar que preparamos antes."]
   },
   {
     "id": 26,
@@ -230,8 +230,8 @@
     "title": "Pollo  para fajitas",
     "description": "Receta para fajitas elaboradas",
     "image": "assets/img/recetas/pollo-fajitas.jpg",
-    "ingredients": ["Sin definir"],
-    "steps": ["Sin definir"]
+    "ingredients": ["1 pechuga de pollo cuk entera", "1 cebolla grande", "2 zanahorias", "Vino", "Aceite", "Agua", "Sal"],
+    "steps": ["En la olla rápida echamos aceite hasta cubrir el fondo, calentamos y doramos bien las pechugas enteras, una vez saladas.", "Apartamos las pechugas, y en ese aceite echamos la cebolla en trozos grandes y las zanahorias también troceadas.", "Añadimos sal y rehogamos unos 5 minutos.", "Incorporamos la pechuga y añadimos medio vaso de vino blanco y medio vaso de agua.", "Cerramos la olla y dejamos 50 minutos.", "Sacamos la pechuga y reducimos lo necesario la salsa. Una vez reducida la salsa, deshilachamos la pechuga y le añadimos la salsa colada, deshechando las verduras ya que ya dejaron el sabor en la salsa."]
   },
   {
     "id": 27,
