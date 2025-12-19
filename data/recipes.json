@@ -140,8 +140,8 @@
     "title": "Selva negra",
     "description": "Bastante laboriosa",
     "image": "assets/img/recetas/selva-negra.jpg",
-    "ingredients": ["Bizcocho: 100g harina repostería, 40g cacao, 2 cdta levadura, 1 cdta azúcar vainillado, sal, 3 huevos, 150g azúcar, 100g mantequilla, 40g kirsch", "Relleno: 250g cerezas al kirsch, 600g nata fría, 1 cdta azúcar vainillado, 100g azúcar glas", "Decoración: Virutas de chocolate"],
-    "steps": ["Bizcocho: Pulverizar secos (20s, v5-10). Batir huevos y azúcar con mariposa (5 min, 37º, v3.5 y 4 min, v3). Añadir mantequilla y secos (4s, v1), unir con espátula, añadir licor y hornear a 180ºC (20-25 min).", "Relleno: Montar nata con azúcar vainillado (v3.5) y añadir azúcar glas al final.", "Montaje: Calar bizcocho con licor, rellenar con nata y cerezas, cubrir con nata restante, decorar con rosetas, cerezas y virutas de chocolate"]
+    "ingredients": ["Bizcocho: 100g harina repostería, 40g cacao, 2 cdta levadura química, 1 cdta azúcar vainillado, sal, 3 huevos, 150g azúcar, 100g mantequilla, 40g kirsch", "Relleno: 250g cerezas al kirsch, 600g nata líquida muy fría, 1 cdta azúcar vainillado, 100g azúcar glas", "Decoración: Virutas de chocolate"],
+    "steps": ["Bizcocho: Precalentar el horno a 180º", "Pulverizar la harina, el cacao, la levadura, el azúcar vainillado y la sal (20s, v5-10). Reservar en un cuenco.", "Batir huevos y azúcar con mariposa (5 min, 37º, v3.5). Después sin temperatura 4 min, v3", "Añadir mantequilla y la mezcla de harina y cacao y mezclar (4s, v1), unir con espátula, añadir licor", "Verter en un molde desmontable de 24cm y hornear a 180ºC (20-25 min).", "Relleno: Colocar mariposa, incorporar nata y azúcar vainillado y programar (v3.5) hasta que esté montado. Luego añadir el azúcar glas y mezclar con la espátula.", "Montaje: Partir el bizcocho por la mitad y pintar el interior con el licor de las cerezas", "Cubrir la superficie con la nata montada y poner encima las cerezas previamente escurridas en papel cocina", "Poner la otra tapa también untada con el licor de las cerezas y cubrir con la nata montada restante, alisándola con la espátula", "Decorar con rosetas de nata con una manga pastelera de boquilla rizada y colocar sobre ellas una cereza", "Cubrir con virutas de chocolate"]
   },
   {
     "id": 17,
@@ -149,8 +149,8 @@
     "title": "Lentejas",
     "description": "Las de toda la vida, sin compango",
     "image": "assets/img/recetas/lentejas.jpg",
-    "ingredients": ["1 vaso de lentejas", "8 vasos de agua fría", "Patatas", "1 puerro entero", "1/2 pimiento verde", "2 zanahorias", "Jamón y/o chorizo", "2 tomates triturados", "1 cucharadita de sal", "Sofrito (4 dientes de ajo, 1 cebolla, pimentón)"],
-    "steps": ["\"Cocer en olla a presión 20 min las lentejas, agua, patatas, pimiento, puerro, zanahorias, carne, tomate y sal", "Hacer un sofrito con ajo y cebolla"]
+    "ingredients": ["1 vaso de lentejas (Doraimon)", "8 vasos de agua fría", "Patatas", "1 puerro entero", "1/2 pimiento verde", "2 zanahorias", "Jamón y/o chorizo", "2 tomates triturados", "1 cucharadita de sal", "Sofrito (4 dientes de ajo, 1 cebolla, cda colmada pimentón)"],
+    "steps": ["Echamos en la olla las lentejas, el agua, las patatas cortadas en cuadrados, el pimiento entero, el puerro entero, las zanahorias en rodajas, el jamón y/o chorizo, el tomate triturado y la sal", "Mientras tanto, hacemos un sofrito con ajo, cuando doren echamos la cebolla, y cuando esté lista añadimos una cucharada de postre colmada de pimentón (fuera del fuego para que no se queme)", "Pasados los 20 minutos, abrimos la olla, retiramos el puerro y el pimiento y añadimos el sofrito (quitando antes el exceso de aceite) y dejamos cocinar a fuego lento otros 10-20 minutos"]
   },
   {
     "id": 18,
@@ -158,8 +158,8 @@
     "title": "Guisantes con jamón",
     "description": "Sencillos y sabrosos",
     "image": "assets/img/recetas/guisantes-jamon.jpg",
-    "ingredients": ["Guisantes", "Tacos de jamón", "Cebolla", "Harina", "Vino blanco", "Sal", "Pimentón Cocer los guisantes según las instrucciones del paquete (pueden quedar duros)"],
-    "steps": ["Pochar la cebolla y añadir los tacos de jamón", "Incorporar la harina, cocinarla y añadir un poco de pimentón", "Verter el vino blanco y un par de garcillas del agua de cocción de los guisantes", "Añadir los guisantes y ajustar el agua si es necesario"]
+    "ingredients": ["1 kg de guisantes", "Tacos de jamón", "Cebolla", "Harina", "Vino blanco", "Sal", "Pimentón"],
+    "steps": ["Cocer los guisantes según las instrucciones del paquete (pueden quedar duros)", "Pochar la cebolla y añadir los tacos de jamón", "Incorporar la harina, cocinarla y añadir un poco de pimentón", "Verter el vino blanco y un par de garcillas del agua de cocción de los guisantes", "Añadir los guisantes y ajustar el agua si es necesario"]
   },
   {
     "id": 19,
@@ -177,7 +177,7 @@
     "description": "Con helado de vainilla está que flipas",
     "image": "assets/img/recetas/brownie.jpg",
     "ingredients": ["150g de nueces", "150g de chocolate fondant", "150g de azúcar", "2 huevos", "100g de mantequilla a Tª ambiente", "70g de harina de repostería", "1 cucharadita de levadura química", "1 pellizco de sal"],
-    "steps": ["Precalentar el horno a 180º", "Trocear nueces en el vaso (4s, v4) y reservar. Poner chocolate troceado en el vaso (15s, v5-10) y reservar.", "Batir azúcar y huevos con mariposa (5 min, 37º, v3.5).", "Añadir mantequilla y chocolate (6s, v2).", "Incorporar harina, levadura y sal (4s, v2) y quitar la mariposa.", "Mezclar nueces con espátula.", "Engrasar un molde y enharinar, volcar la mezcla y hornear durante 20 minutos, hasta que al introducir un cuchillo, salga limpio.", "Servir con helado de vainilla."]
+    "steps": ["Precalentar el horno a 180º", "Trocear nueces en el vaso (4s, v4) y reservar. Poner chocolate troceado en el vaso (15s, v5-10) y reservar.", "Batir azúcar y huevos con mariposa (5 min, 37º, v3.5).", "Añadir mantequilla y chocolate y mezclar (6s, v2).", "Incorporar harina, levadura y sal (4s, v2) y quitar la mariposa.", "Mezclar nueces con espátula.", "Engrasar un molde y enharinar, volcar la mezcla y hornear durante 20 minutos, hasta que al introducir un cuchillo, salga limpio.", "Desmoldar en una rejilla y, en caliente, cortar en cuadrados al gusto", "Servir con helado de vainilla."]
   },
   {
     "id": 21,
