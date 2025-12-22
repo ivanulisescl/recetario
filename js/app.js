@@ -29,6 +29,16 @@ function imgOrPlaceholder(src) {
     i.src = src;
   });
 }
+const CATEGORY_LABELS = {
+  'de-cuchara': 'De cuchara',
+  'pures': 'Puré',
+  'sopas': 'Sopas',
+  'ensaladas': 'Ensaladas',
+  'guisos': 'Guisos',
+  'pescados': 'Pescados',
+  'postres': 'Postres',
+  'varios': 'Varios'
+};
 
 // --------------------------------------------------
 // Carga de recetas + generación dinámica de categorías
@@ -48,10 +58,10 @@ async function loadRecipes() {
       const slug = r.category;
       if (!map.has(slug)) {
         map.set(slug, {
-          slug,
-          name: slug.charAt(0).toUpperCase() + slug.slice(1),
-          img: `assets/img/categorias/${slug}.jpg`
-        });
+  		slug,
+  		name: CATEGORY_LABELS[slug] ?? slug,
+  		img: `assets/img/categorias/${slug}.jpg`
+	});
       }
     });
 
