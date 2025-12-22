@@ -367,5 +367,23 @@
     "image": "assets/img/recetas/coliflor-asada-tahini-menta.jpg",
     "ingredients": ["Coliflor Asada: coliflor, aceite y sal", "Tahini: sésamo, aceite, limón, pimienta, ajo (opcional)", "Guarnición: hojas de menta troceadas"],
     "steps": ["Coliflor", "Precalentar a 230ºC con una bandeja dentro", "Cortar la coliflor en florestes medianos", "En un bol, mezclar bien la coliflor con el aceite, la sal y el pimiento seco", "Precalentar la bandeja durante 5 minutos, sacar y colocar los floretes encima sin tocarse, y con el lado cortado hacia la bandeja", "Asar durante 25 minutos, volteando a la mitad del proceso o cuando estén caramelizados y tiernos", "Tahini", "Tostar las semillas en una sartén durante 3-5 minutos", "Batir hasta formar una pasta", "Añadir el aceite y batir otros 3-5 minutos", "Opcional echar un poco de ajo y/o limón"]
+  },
+  {
+    "id": 42,
+    "category": "varios",
+    "title": "Rollitos de salmón",
+    "description": "Sencilla para un día especial",
+    "image": "assets/img/recetas/rollitos-salmon.jpg",
+    "ingredients": ["Sin definir"],
+    "steps": ["Sin definir"]
+  },
+  {
+    "id": 43,
+    "category": "ensaladas",
+    "title": "Ensalada de garbanzos",
+    "description": "Ideal para un día de playa",
+    "image": "assets/img/recetas/ensalada-garbanzos.jpg",
+    "ingredients": ["Sin definir"],
+    "steps": ["Sin definir"]
   }
 ]
