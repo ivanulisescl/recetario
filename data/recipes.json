@@ -130,7 +130,7 @@
     "category": "ensaladas",
     "title": "Ensalada de aguacate y mango",
     "description": "La primera que hicimos con mango",
-    "image": "assets/img/recetas/ensalada-aguacata-mango.jpg",
+    "image": "assets/img/recetas/ensalada-aguacate-mango.jpg",
     "ingredients": ["Endivia", "Pepino en cuadrados", "Aguacate", "Manzana granny", "Mango en cuadrados", "Feta", "Sésamo", "Vinagre de jerez", "Sal", "Aceite de oliva"],
     "steps": ["Preparar y servir"]
   },
@@ -283,7 +283,7 @@
     "category": "guisos",
     "title": "Pollo al limón",
     "description": "Tampoco supera al chilindrón",
-    "image": "assets/img/recetas/pollo-limon.jpg",
+    "image": "assets/img/recetas/pollo-al-limon.jpg",
     "ingredients": ["muslos de pollo", "1 cebolla", "1 limón", "100ml de vino blanco", "3 dientes de ajo", "romero seco", "tomillo", "100ml de aceite", "4 patatas medianas", "sal", "pimienta"],
     "steps": ["Pollo", "Precalentamos el horno a 200ºC", "Pelamos la cebolla y la cortamos en aros de 0,5 cm. Separamos los aros de cebolla y los colocamos en una fuente apta para horno.", "Lavamos y partimos un limón. Troceamos una mitad y exprimimos el zumo de la otra mitad. Bañamos la cebolla con el zumo del medio limón.", "Ponemos los muslos de pollo sobre la cama de cebolla, el limón troceado, el tomillo fresco y los dientes de ajo partidos por la mitad (no es necesario pelarlos).", "En un mortero picamos el romero seco y lo mezclamos con la mitad del vino blanco, los 50 ml. de aceite de oliva virgen extra, la sal y la pimienta.", "Removemos bien para que se mezclen los ingredientes. Pincelamos la carne con la mezcla de romero y bañamos la bandeja con el resto.", "Horneamos con calor arriba y abajo, sin aire caliente para no resecar el pollo. El tiempo más o menos de 60 - 75 minutos a 200º C en la bandeja del medio.", "Tened cuidado porque cada horno es un mundo y el tuyo puede necesitar variar la temperatura. Durante el horneado vamos regando con la mitad que", "nos queda del vino blanco, para que siempre tenga un poco de líquido y no se quede seco.", "Patatas rústicas", "Lavamos bien las patatas y las cortamos en gajos sin pelar.", "Las pasamos a otra fuente de horno y bañamos con los otros 50 ml de aceite. Espolvoreamos sal, pimienta y romero seco.", "Horneamos durante una hora a 200º C, los podemos meter 15 minutos antes de hornear el pollo, así luego serán 45 minutos con el horneado de los muslos.", "Servimos el pollo acompañado de las patatas asadas y un poco de ensalada de tomate, por ejemplo."]
   },
