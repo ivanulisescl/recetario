@@ -312,7 +312,7 @@
     "description": "Idea sacada de Ire",
     "image": "assets/img/recetas/repollo-salteado-pollo.jpg",
     "ingredients": ["Repollo (unas 6 hojas)", "1 cebolla morada mediana grande", "Zanahoria rallada", "Salsa de soja", "Jengibre rallado", "Ralladura de limón o lima", "Opcional: Pollo o gambas"],
-    "steps": ["Pochar la cebolla morada en juliana y añadir el repollo en juliana fina hasta que se integre sin pasarse", "Añadir la zanahoria rallada, salsa de soja, jengibre y ralladura de cítrico", "Si se usa pollo, salar filetes, untar con jengibre y ralladura, golpear con una sartén sobre papel de horno, añadir sésamo y cocinar a la plancha", "Cortar el pollo en tiras anchas y servir con el repollo"]
+    "steps": ["Pochar cebolla morada en juliana a fuego medio-fuerte. Cuando esté lista añadir el repollo en juliana fina", "Cuando el repollo esté integrado y mezcladocon la cebolla (no muy pasado) se añade la zanahoria rallada y se integra sin que se haga mucho", "Se añade salsa de soja, se integra también, y luego un toque de jengibre rallado y un toque de ralladura de limón o lima.", "Se puede combinar con pollo o con gambas", "En caso de pollo, se hacen filetes no muy finos. Se salan y hacen unos cortes y se untan con jengibre rallado al gusto y un poco de ralladura de limón", "Se pone una hoja de papel de horno encima y se dan golpes con una sartén para que cojan el sabor.", "Quitamos el papel, ponemos un poco de sésamo y a la plancha. Luego se cortan en tiras anchas."]
   },
   {
     "id": 36,
@@ -329,8 +329,8 @@
     "title": "Albóndigas de pollo",
     "description": "Albóndigas de pollo",
     "image": "assets/img/recetas/albondigas-pollo.jpg",
-    "ingredients": ["Sin definir"],
-    "steps": ["Sin definir"]
+    "ingredients": ["Albóndigas", "1 pechuga de pollo picada (aprox. 600 gramos)", "ajo molido", "perejil", "miga de pan (leche y escurrir)", "1 huevo", "sal", "Salsa", "1 cebolla", "1 zanahoria", "azafrán", "orégano", "caldo de pollo", "sal"],
+    "steps": ["Albóndigas", "Mezclamos todos los ingredientes con unos guantes de látex y", "hacemos las albóndigas. Enharinamos y freímos.", "Salsa", "Puede ser salsa de tomate o esta otra.", "En la misma olla echamos la cebolla y la zanahoria y pochamos 20 minutos.", "Luego echamos las especias y un poco de harina para que espese.", "Añadimos las albóndigas, cubrimos con caldo de pollo y dejamos que se cocinen unos diez minutos.", "Para el caldo de pollo (4 carcasas de pollo, puerro, cebolla y patata). Cocer 45min, añadir verduras y otros 45 minutos. En 3 litros de agua."]
   },
   {
     "id": 38,
@@ -338,8 +338,8 @@
     "title": "Granola",
     "description": "La que prepara Cecilia",
     "image": "assets/img/recetas/granola.jpg",
-    "ingredients": ["Sin definir"],
-    "steps": ["Sin definir"]
+    "ingredients": ["250 g de avena", "200 g de anacardos", "150 g de pipas de calabaza", "40-80 g de miel", "20 g de aceite", "pellizco de sal maldon", "3 cucharadas de café de canela"],
+    "steps": ["Mezclamos todos los ingredientes en una fuente", "Extendemos en la bandeja del horno sobre papel de horno", "Calentamos a 150-160ºC", "Ponemos 12min, removemos y otros 12", "Vigilamos por si se tuesta mucho"]
   },
   {
     "id": 39,
@@ -347,8 +347,8 @@
     "title": "Dip de alcachofas y espinacas",
     "description": "Idea del menda",
     "image": "assets/img/recetas/dip-alcachofas-espinacas.jpg",
-    "ingredients": ["Sin definir"],
-    "steps": ["Sin definir"]
+    "ingredients": ["2 tazas espinacas frescas", "1/2 taza corazones de alcachofa partidos en cuartos", "1 taza anacardos remojados previamente", "1/2 cebolleta", "1/2 diente ajo", "1 taza agua", "1 pizca sal", "1 pizca pimienta"],
+    "steps": ["Lo primero que hay que hacer es poner en remojo los anacardos, como mínimo durante 2 horas, también puedes dejarlos una noche.", "Cuando los anacardos estén ya puedes empezar, lava las espinacas frescas y centrifúgalas bien para eliminar bien el agua.", "Corta los corazones de alcachofa en cuartos.", "Corta la cebolla en trocitos y pela el diente de ajo, pártelo por la mitad y quítale la parte central.", "Pon todos los ingredientes en tu robot de cocina o en el vaso de la batidora, añade el agua, la sal y la pimienta.", "Si decides añadir una guindilla, ahora es el momento.", "Tritura todo muy bien, hasta que quede una pasta cremosa. Ya lo tienes, sírvelo y a disfrutar."]
   },
   {
     "id": 40,
@@ -356,8 +356,8 @@
     "title": "Pulpo a la plancha con verduras asadas",
     "description": "Otra vuelta de tuerca al pulpo",
     "image": "assets/img/recetas/pulpo-plancha-verduras-asadas.jpg",
-    "ingredients": ["Sin definir"],
-    "steps": ["Sin definir"]
+    "ingredients": ["Pulpo cocido", "2 rodajas de calabaza", "1 zanahoria", "1 calabacín", "1 puerro", "2 patatas pequeñas", "1/2 diente de ajo como mucho", "Aceite de oliva virgen extra", "Perejil fresco", "Sal", "Salsa de mojo picón (opcional)"],
+    "steps": ["Cogemos las verduras que queramos, en este caso, calabaza, zanahoria, patata, calabacín y puerro. Las pelamos, lavamos y cortamos en rodajas o bastones.", "Por otro lado, damos un hervor a las rodajas de patata. Con 5 minutos bastará.", "En una bandeja de horno con papel para hornear, colocamos todas las verduras esparcidas, repártelas bien para que no se monte una sobre otra, y espolvoreamos un poco de sal, pimienta negra molida y un chorrito de aceite de oliva virgen extra.", "Horneamos en el horno previamente caliente a 200ºC durante 20 minutos aproximadamente. Estarán listas cuando estén ligeramente doradas y al pincharlas estén blanditas.", "Para preparar el aceite de ajo y perejil: En un vaso de batidora, ponemos aceite de oliva virgen extra, las hojas de un ramillete de perejil, los ajos pelados y una pizca de sal y batimos hasta conseguir un aceite verde sin grumos.", "Para hacer el pulpo a la plancha, en una parrilla a fuego fuerte, le damos vuelta y vuelta hasta que quede bien doradito, unos dos minutos por cada lado, sin salar.", "Servimos en un plato poniendo una base con las verduras asadas, luego el pulpo a la plancha, y acabamos rociando con el aceite de ajo y perejil."]
   },
   {
     "id": 41,
@@ -365,7 +365,7 @@
     "title": "Coliflor Asada con Tahini y Menta Fresca",
     "description": "Feliz descubrimiento de Mauro",
     "image": "assets/img/recetas/coliflor-asada-tahini-menta.jpg",
-    "ingredients": ["Sin definir"],
-    "steps": ["Sin definir"]
+    "ingredients": ["Coliflor Asada: coliflor, aceite y sal", "Tahini: sésamo, aceite, limón, pimienta, ajo (opcional)", "Guarnición: hojas de menta troceadas"],
+    "steps": ["Coliflor", "Precalentar a 230ºC con una bandeja dentro", "Cortar la coliflor en florestes medianos", "En un bol, mezclar bien la coliflor con el aceite, la sal y el pimiento seco", "Precalentar la bandeja durante 5 minutos, sacar y colocar los floretes encima sin tocarse, y con el lado cortado hacia la bandeja", "Asar durante 25 minutos, volteando a la mitad del proceso o cuando estén caramelizados y tiernos", "Tahini", "Tostar las semillas en una sartén durante 3-5 minutos", "Batir hasta formar una pasta", "Añadir el aceite y batir otros 3-5 minutos", "Opcional echar un poco de ajo y/o limón"]
   }
 ]
