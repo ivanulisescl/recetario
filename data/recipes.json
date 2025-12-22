@@ -239,8 +239,8 @@
     "title": "Patatas con pescado",
     "description": "También de relamese",
     "image": "assets/img/recetas/patatas-pescado.jpg",
-    "ingredients": ["Sin definir"],
-    "steps": ["Sin definir"]
+    "ingredients": ["Pescado", "Langostinos", "Almejas", "Patatas", "2 cebollas medianas", "2 dientes de ajo", "Vino blanco", "Aceite", "Agua", "Sal"],
+    "steps": ["Caldo de pescado", "En una pota con el culo de aceite echamos las cabezas de langostino y las freimos un poco aplastándolas", "Incorporamos el pescado, una cebolla y agua y cocemos durante 15min (máx 20 para que no enrancie)", "Se cuela primero con colador y luego con el filtro de café para eliminar las impurezas y arenilla", "Reservamos tanto el caldo como los langostinos pelados", "Caldo de almejas", "En un cazo con un poco de agua echamos las almejas para que abran. El líquido que sueltan se puede incorporar al caldo", "Por si acaso conviene dejarlas un rato en agua con sal para que echen la arena que puedan tener", "Patatas", "Rallamos un par de dientes de ajo y dos cebollas medianas, y sofreímos en la paella", "Echamos un poco de harina y la cocinamos, y luego medio vaso de vino blanco", "Incorporamos las patatas tipo panadera, y mezclamos un par de minutos.", "Incorporamos el caldo y salamos, y dejamos que las patatas se hagan", "Cuando queden 5 minutos incorporamos los trozos de pescado", "Cuando quede un minuto echamos los langostinos que ya teníamos pelados", "Cuando esté listo echamos las almejas y tapamos, para que se terminen de hacer los langostinos y las almejas, y repose todo un poco"]
   },
   {
     "id": 28,
@@ -257,8 +257,8 @@
     "title": "Pesto",
     "description": "Molto buono",
     "image": "assets/img/recetas/pesto.jpg",
-    "ingredients": ["cebolleta", "puerro", "calabacín"],
-    "steps": ["Sin definir"]
+    "ingredients": ["1/2 paquete de albahaca fresca", "Aceite de oliva", "Parmesano", "Piñones", "Sal"],
+    "steps": ["Ponemos la albahaca, sin tallos y cortada un poco con las tijeras, en el vaso de la Thermomix y trituramos", "Cubrimos con aceite y le damos otro golpe", "Echamos un puñado de grana padano rallado", "Pizca de sal", "Echamos un puñado de piñones tostados. Justo que cubran el culo de una sartén pequeña. Ojo que se queman fácil"]
   },
   {
     "id": 30,
@@ -267,7 +267,7 @@
     "description": "Una de las estrellas pa un viernes",
     "image": "assets/img/recetas/ensalada-pollo-bacon.jpg",
     "ingredients": ["1 paquete de canónigos + rúcula", "Pimiento rojo", "Pimiento verde", "Cebolla morada", "Pollo (asado o plancha)", "Bacon", "Parmesano", "Cherrys"],
-    "steps": ["Saltear los pimientos y la cebolla en tiras a fuego fuerte estilo wok hasta que ablanden un poco", "Preparar el pollo al horno (180°C por 40 min) o a la plancha", "Freír el bacon y retirar el exceso de grasa", "Mezclar los canónigos y rúcula con las verduras salteadas, el pollo, el bacon, el queso parmesano y los tomates cherry"]
+    "steps": ["Se parte en tiras el pimiento rojo, verde y la cebolla y se saltea a fuego fuerte hasta que las verduras ablanden un poco, al estilo wok", "Las pechugas de pollo se pueden hacer al horno a 180º 40 min o a la plancha", "El bacon se fríe y se retira un poco la grasa", "Eso se puede tener todo hecho de antemano, y luego simplemente es echar todos los ingredientes"]
   },
   {
     "id": 31,
@@ -284,8 +284,8 @@
     "title": "Pollo al limón",
     "description": "Tampoco supera al chilindrón",
     "image": "assets/img/recetas/pollo-limon.jpg",
-    "ingredients": ["Sin definir"],
-    "steps": ["Sin definir"]
+    "ingredients": ["muslos de pollo", "1 cebolla", "1 limón", "100ml de vino blanco", "3 dientes de ajo", "romero seco", "tomillo", "100ml de aceite", "4 patatas medianas", "sal", "pimienta"],
+    "steps": ["Pollo", "Precalentamos el horno a 200ºC", "Pelamos la cebolla y la cortamos en aros de 0,5 cm. Separamos los aros de cebolla y los colocamos en una fuente apta para horno.", "Lavamos y partimos un limón. Troceamos una mitad y exprimimos el zumo de la otra mitad. Bañamos la cebolla con el zumo del medio limón.", "Ponemos los muslos de pollo sobre la cama de cebolla, el limón troceado, el tomillo fresco y los dientes de ajo partidos por la mitad (no es necesario pelarlos).", "En un mortero picamos el romero seco y lo mezclamos con la mitad del vino blanco, los 50 ml. de aceite de oliva virgen extra, la sal y la pimienta.", "Removemos bien para que se mezclen los ingredientes. Pincelamos la carne con la mezcla de romero y bañamos la bandeja con el resto.", "Horneamos con calor arriba y abajo, sin aire caliente para no resecar el pollo. El tiempo más o menos de 60 - 75 minutos a 200º C en la bandeja del medio.", "Tened cuidado porque cada horno es un mundo y el tuyo puede necesitar variar la temperatura. Durante el horneado vamos regando con la mitad que", "nos queda del vino blanco, para que siempre tenga un poco de líquido y no se quede seco.", "Patatas rústicas", "Lavamos bien las patatas y las cortamos en gajos sin pelar.", "Las pasamos a otra fuente de horno y bañamos con los otros 50 ml de aceite. Espolvoreamos sal, pimienta y romero seco.", "Horneamos durante una hora a 200º C, los podemos meter 15 minutos antes de hornear el pollo, así luego serán 45 minutos con el horneado de los muslos.", "Servimos el pollo acompañado de las patatas asadas y un poco de ensalada de tomate, por ejemplo."]
   },
   {
     "id": 33,
