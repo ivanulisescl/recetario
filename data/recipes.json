@@ -374,8 +374,8 @@
     "title": "Rollitos de salmón",
     "description": "Sencilla para un día especial",
     "image": "assets/img/recetas/rollitos-salmon.jpg",
-    "ingredients": ["Sin definir"],
-    "steps": ["Sin definir"]
+    "ingredients": ["4 pepinillos", "20g de alcaparras", "175g de queso crema", "200g de salmón en lonchas", "Pizca de eneldo (o cebollino)"],
+    "steps": ["Picar fino los pepinillos y las alcaparras y mezclarlas con el queso en un bol", "Sobre film transparente, extender el salmón ahumado formando una capa uniforme", "Extender la mezcla anterior sobre el salmón", "Espolvorear el eneldo", "Ayudándonos con el film, enrollamos el salmón, formando un cilindro", "Guardar en la nevera una hora", "Quitar el film, cortar en lonchas, poner sobre tostadas y espolvorear eneldo"]
   },
   {
     "id": 43,
@@ -383,7 +383,7 @@
     "title": "Ensalada de garbanzos",
     "description": "Ideal para un día de playa",
     "image": "assets/img/recetas/ensalada-garbanzos.jpg",
-    "ingredients": ["Sin definir"],
-    "steps": ["Sin definir"]
+    "ingredients": ["Garbanzos de bote", "Pimiento rojo picado", "Pimiento verde picado", "Tomate en daditos", "Cebolla morada picada", "Huevo cocido", "Cogollos", "Tacos de jamón frito"],
+    "steps": ["Hacemos una cama con los cogollos", "Añadimos todos los ingedientes", "Aliñar con aceite y vinagre en el momento de comerla"]
   }
 ]
