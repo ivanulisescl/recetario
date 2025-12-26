@@ -404,24 +404,4 @@
     "ingredients": ["4 huevos", "1 yogur natural o griego", "2/3 de vaso de aceite", "1 vaso de harina integral espelta", "125 g de almendra molida", "24 ciruelas", "150 g de nueces", "2 plátanos grandes", "1 sobre levadura química"],
     "steps": ["Precalentar el horno a 175ºC", "Batir los huevos hasta espumar un poco", "Echar el yogur y mezclar bien", "En el vaso del yogur, echar 2/3 de aceite y añadirlo", "Echar un vaso de café de harina de espelta junto con la levadura, tamizando con el colador", "Echar la almendra y mezclar bien", "Echar las nueces y mezclar bien", "Partir las ciruelas en 4 o 5 trozos, añadirlas y mezclar", "Cortar los plátanos en trozos, añadir y mezclar", "Verter en un molde desmontable, previamente aceitado y enharinado, y con el fondo con papel de horno. Darle unos toques contra la encimera para que quede plano", "Meter en el horno durante media hora, tapar con un albal y dejar 10 minutos más."]
   }
-,
-  {
-    "id": 46,
-    "category": "postres",
-    "title": "Nueva receta",
-    "description": "La m�s rica",
-    "image": "la-nueva-receta",
-    "ingredients": ["pan", "sal", "harina"],
-    "steps": ["Echar el pan", "Echar la sal", "Echar la harina"]
-  }
-,
-  {
-    "id": 47,
-    "category": "postres",
-    "title": "Nuevo",
-    "description": "Nueva receta",
-    "image": "nueva-receta",
-    "ingredients": ["1", "2", "3"],
-    "steps": ["1", "2", "3"]
-  }
 ]
