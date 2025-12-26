@@ -408,14 +408,5 @@
 
 
 
-,
-  {
-    "id": 46,
-    "category": "postres",
-    "title": "Bizcocho sin azúcar",
-    "description": "Pal desayuno de Ceci",
-    "image": "assets/img/recetas/bizcocho-sin-azucar.jpg",
-    "ingredients": ["4 huevos", "1 yogur natural o griego", "2/3 de vaso de aceite", "1 vaso de harina integral espelta", "125 g de almendra molida", "24 ciruelas", "150 g de nueces", "2 plátanos grandes", "1 sobre levadura química"],
-    "steps": ["Precalentar el horno a 175ºC", "Batir los huevos hasta espumar un poco", "Echar el yogur y mezclar bien", "En el vaso del yogur, echar 2/3 de aceite y añadirlo", "Echar un vaso de café de harina de espelta junto con la levadura, tamizando con el colador", "Echar la almendra y mezclar bien", "Echar las nueces y mezclar bien", "Partir las ciruelas en 4 o 5 trozos, añadirlas y mezclar", "Cortar los plátanos en trozos, añadir y mezclar", "Verter en un molde desmontable, previamente aceitado y enharinado, y con el fondo con papel de horno. Darle unos toques contra la encimera para que quede plano", "Meter en el horno durante media hora, tapar con un albal y dejar 10 minutos más."]
-  }
+
 ]
