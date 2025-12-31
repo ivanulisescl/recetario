@@ -409,4 +409,14 @@
 
 
 
+,
+  {
+    "id": 44,
+    "category": "ensaladas",
+    "title": "Ensalada de garbanzos 2.0",
+    "description": "La de garbanzos al horno",
+    "image": "assets/img/recetas/ensalada-garbanzos-asados.jpg.jpg",
+    "ingredients": ["1 bote pequeño de garbanzos", "150 g de queso feta", "10 tomates cherry", "1 pepino pequeño", "1/2 cebolla morada", "Aceite de oliva virgen extra", "Vinagre balsámico", "Sal", "Perejil para decorar"],
+    "steps": ["Lavar y secar los garbanzos, y mezclarlos con 4 cucharadas de AOVE, 1 de comino, 1 de curry, 1 de pimentón, pimienta y sal", "Horneamos 15 minutos a 180ºC, remover y dejar otros 5 minutos", "Cortar el tomarte en trozos de bocado, cortar la cebolla en juliana y cortar el pepino en trozos pequeños", "Trocear el queso feta en cuadrados pequeños", "En un bowl poner los garbanzos tostados con el resto de verduras cortadas", "Preparar una vinagreta con el AOVe, el vinagre balsámico y una pizca de sal. Regar con la mezcla las verduras, y remover muy bien."]
+  }
 ]
