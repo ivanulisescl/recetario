@@ -360,15 +360,6 @@
     "steps": ["Cogemos las verduras que queramos, en este caso, calabaza, zanahoria, patata, calabacín y puerro. Las pelamos, lavamos y cortamos en rodajas o bastones.", "Por otro lado, damos un hervor a las rodajas de patata. Con 5 minutos bastará.", "En una bandeja de horno con papel para hornear, colocamos todas las verduras esparcidas, repártelas bien para que no se monte una sobre otra, y espolvoreamos un poco de sal, pimienta negra molida y un chorrito de aceite de oliva virgen extra.", "Horneamos en el horno previamente caliente a 200ºC durante 20 minutos aproximadamente. Estarán listas cuando estén ligeramente doradas y al pincharlas estén blanditas.", "Para preparar el aceite de ajo y perejil: En un vaso de batidora, ponemos aceite de oliva virgen extra, las hojas de un ramillete de perejil, los ajos pelados y una pizca de sal y batimos hasta conseguir un aceite verde sin grumos.", "Para hacer el pulpo a la plancha, en una parrilla a fuego fuerte, le damos vuelta y vuelta hasta que quede bien doradito, unos dos minutos por cada lado, sin salar.", "Servimos en un plato poniendo una base con las verduras asadas, luego el pulpo a la plancha, y acabamos rociando con el aceite de ajo y perejil."]
   },
   {
-    "id": 41,
-    "category": "varios",
-    "title": "Coliflor Asada con Tahini y Menta Fresca",
-    "description": "Feliz descubrimiento de Mauro",
-    "image": "assets/img/recetas/coliflor-asada-tahini-menta.jpg",
-    "ingredients": ["Coliflor Asada: coliflor, aceite y sal", "Tahini: sésamo, aceite, limón, pimienta, ajo (opcional)", "Guarnición: hojas de menta troceadas"],
-    "steps": ["Coliflor", "Precalentar a 230ºC con una bandeja dentro", "Cortar la coliflor en florestes medianos", "En un bol, mezclar bien la coliflor con el aceite, la sal y el pimiento seco", "Precalentar la bandeja durante 5 minutos, sacar y colocar los floretes encima sin tocarse, y con el lado cortado hacia la bandeja", "Asar durante 25 minutos, volteando a la mitad del proceso o cuando estén caramelizados y tiernos", "Tahini", "Tostar las semillas en una sartén durante 3-5 minutos", "Batir hasta formar una pasta", "Añadir el aceite y batir otros 3-5 minutos", "Opcional echar un poco de ajo y/o limón"]
-  },
-  {
     "id": 42,
     "category": "varios",
     "title": "Rollitos de salmón",
@@ -403,5 +394,15 @@
     "image": "assets/img/recetas/ensalada-garbanzos-asados.jpg",
     "ingredients": ["1 bote pequeño de garbanzos", "150 g de queso feta", "10 tomates cherry", "1 pepino pequeño", "1/2 cebolla morada", "Aceite de oliva virgen extra", "Vinagre balsámico", "Sal", "Perejil para decorar"],
     "steps": ["Lavar y secar los garbanzos, y mezclarlos con 4 cucharadas de AOVE, 1 de comino, 1 de curry, 1 de pimentón, pimienta y sal", "Horneamos 15 minutos a 180ºC, remover y dejar otros 5 minutos", "Cortar el tomarte en trozos de bocado, cortar la cebolla en juliana y cortar el pepino en trozos pequeños", "Trocear el queso feta en cuadrados pequeños", "En un bowl poner los garbanzos tostados con el resto de verduras cortadas", "Preparar una vinagreta con el AOVe, el vinagre balsámico y una pizca de sal. Regar con la mezcla las verduras, y remover muy bien."]
+  }
+,
+  {
+    "id": 41,
+    "category": "varios",
+    "title": "Coliflor Asada con Tahini y Menta Fresca",
+    "description": "Feliz descubrimiento de Mauro",
+    "image": "assets/img/recetas/coliflor-asada-tahini-menta.jpg",
+    "ingredients": ["Coliflor Asada: coliflor, aceite y sal", "Tahini: sésamo, aceite, limón, pimienta, ajo (opcional)", "Guarnición: hojas de menta troceadas"],
+    "steps": ["Coliflor", "Precalentar a 230ºC con una bandeja dentro", "Cortar la coliflor en florestes medianos", "En un bol, embadurnar bien la coliflor aceite", "Precalentar la bandeja durante 5 minutos, sacar y colocar los floretes encima sin tocarse, y con el lado cortado hacia la bandeja", "Asar durante 25 minutos, volteando a la mitad del proceso o cuando estén caramelizados y tiernos", "Tahini", "Tostar las semillas en una sartén durante 3-5 minutos", "Batir hasta formar una pasta", "Añadir el aceite y batir bien. Para que quede más ligero se puede añadir agua y/o limón", "Opcional echar un poco de ajo y/o limón"]
   }
 ]
