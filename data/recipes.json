@@ -72,15 +72,6 @@
     "steps": ["Hornear berenjenas con papel de horno, calor arriba y abajo, a 180°C durante 40-45 min hasta que doren", "Picar y cocinar cebollas en sartén con aceite y sal hasta que transparenten", "Sacar carne de las berenjenas con cuchara sin romper la piel", "Picar la carne de berenjena, añadir a la sartén con cebolla y cocinar 5 min", "Incorporar atún escurrido, tomate, pimentón, sal y pimienta (opcional el comino) y cocinar otros 5 min", "Rellenar las pieles con la mezcla, cubrir con queso rallado y hornear a 180°C unos 10 min hasta gratinar", "Servir con orégano y pimienta por encima."]
   },
   {
-    "id": 9,
-    "category": "ensaladas",
-    "title": "Ensalada de col",
-    "description": "Coleslaw que dicen los guiris",
-    "image": "assets/img/recetas/ensalada-col.jpg",
-    "ingredients": ["250g de repollo", "150g de zanahorias", "150g de manzana granny", "Para la salsa:", "1 yogur natural", "10g de vinagre de jerez", "70g de mayonesa", "10g de azúcar", "5g de mostaza", "5g de sal", "5g de cebolla", "5g de aceite de oliva virgen extra"],
-    "steps": ["\"Cortar el repollo en cuatro trozos y programar 3 segundos, velocidad 5"]
-  },
-  {
     "id": 10,
     "category": "de-cuchara",
     "title": "Repollo guisado Thermomix",
@@ -404,5 +395,15 @@
     "image": "assets/img/recetas/coliflor-asada-tahini-menta.jpg",
     "ingredients": ["Coliflor Asada: coliflor, aceite y sal", "Tahini: sésamo, aceite, limón, pimienta, ajo (opcional)", "Guarnición: hojas de menta troceadas"],
     "steps": ["Coliflor", "Precalentar a 230ºC con una bandeja dentro", "Cortar la coliflor en florestes medianos", "En un bol, embadurnar bien la coliflor aceite", "Precalentar la bandeja durante 5 minutos, sacar y colocar los floretes encima sin tocarse, y con el lado cortado hacia la bandeja", "Asar durante 25 minutos, volteando a la mitad del proceso o cuando estén caramelizados y tiernos", "Tahini", "Tostar las semillas en una sartén durante 3-5 minutos", "Batir hasta formar una pasta", "Añadir el aceite y batir bien. Para que quede más ligero se puede añadir agua y/o limón", "Opcional echar un poco de ajo y/o limón"]
+  }
+,
+  {
+    "id": 9,
+    "category": "ensaladas",
+    "title": "Ensalada de col",
+    "description": "Coleslaw que dicen los guiris",
+    "image": "assets/img/recetas/ensalada-col.jpg",
+    "ingredients": ["250g de repollo", "150g de zanahorias", "150g de manzana granny", "Para la salsa:", "1 yogur natural", "10g de vinagre de jerez", "70g de mayonesa", "10g de azúcar", "5g de mostaza", "5g de sal", "5g de cebolla", "5g de aceite de oliva virgen extra"],
+    "steps": ["Preparar y servir"]
   }
 ]
